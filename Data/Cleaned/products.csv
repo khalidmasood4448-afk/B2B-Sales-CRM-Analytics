@@ -1,0 +1,2501 @@
+product_id,product_name,category,list_price
+1,News Lite,Cloud Subscription,11880.63
+2,Return Suite,Hardware,8288.45
+3,Politics Suite,Hardware,6274.52
+4,And Lite,Professional Services,18326.67
+5,Policy Enterprise,Hardware,11508.21
+6,List Pro,Support Plan,10954.24
+7,Concern Pro,Hardware,2781.92
+8,Represent Pro,Cloud Subscription,932.62
+9,Wonder Lite,Hardware,5183.27
+10,Us Suite,Software License,8651.26
+11,South Lite,Add-on Module,21577.64
+12,Need Lite,Cloud Subscription,25550.49
+13,Well Core,Software License,7072.57
+14,Down Suite,Cloud Subscription,21267.93
+15,Continue Core,Support Plan,17120.35
+16,Bad Plus,Add-on Module,9212.01
+17,Hit Suite,Add-on Module,391.7
+18,Those Suite,Support Plan,23377.54
+19,Cell Suite,Add-on Module,34298.3
+20,My Pro,Support Plan,11352.55
+21,Head Pro,Software License,6633.75
+22,Approach Core,Professional Services,44357.79
+23,Knowledge Core,Cloud Subscription,13787.49
+24,Mission Suite,Support Plan,11219.45
+25,Hundred Core,Cloud Subscription,42861.99
+26,Conference Pro,Software License,40864.5
+27,Hour Lite,Professional Services,22444.91
+28,Budget Lite,Software License,24487.48
+29,Ground Lite,Add-on Module,10926.55
+30,White Core,Cloud Subscription,3961.17
+31,Respond Plus,Professional Services,28692.92
+32,Enjoy Pro,Add-on Module,4962.33
+33,Theory Plus,Professional Services,22491.26
+34,Notice Core,Add-on Module,47027.84
+35,Today Enterprise,Software License,47644.08
+36,Space Suite,Support Plan,12004.65
+37,Toward Pro,Cloud Subscription,31224.47
+38,Buy Lite,Hardware,23730.11
+39,Fill Plus,Hardware,43790.47
+40,Firm Enterprise,Software License,13607.97
+41,Meeting Enterprise,Cloud Subscription,234.94
+42,Finally Pro,Cloud Subscription,8169.93
+43,Evidence Pro,Software License,17508.66
+44,Different Enterprise,Cloud Subscription,15820.27
+45,Able Suite,Support Plan,39578.58
+46,Sing Suite,Software License,34044.01
+47,Program Plus,Support Plan,15012.84
+48,Outside Suite,Cloud Subscription,22914.3
+49,Indeed Enterprise,Software License,4823.18
+50,Director Enterprise,Cloud Subscription,44912.41
+51,Wind Core,Software License,46774.47
+52,Focus Enterprise,Cloud Subscription,48991.19
+53,Woman Suite,Support Plan,43434.21
+54,Worker Lite,Support Plan,8739.35
+55,Question Plus,Cloud Subscription,2357.51
+56,Myself Core,Software License,29000.86
+57,That Suite,Hardware,45634.62
+58,Walk Plus,Support Plan,8908.7
+59,Also Suite,Support Plan,401.79
+60,Worry Core,Add-on Module,40284.53
+61,Major Enterprise,Hardware,3885.94
+62,Wait Lite,Cloud Subscription,20714.62
+63,Prepare Core,Software License,33960.42
+64,Thus Enterprise,Add-on Module,11878.04
+65,Method Core,Cloud Subscription,4243.93
+66,Art Pro,Professional Services,38512.56
+67,Heart Lite,Support Plan,31527.25
+68,According Suite,Professional Services,49425.1
+69,Power Suite,Support Plan,17248.19
+70,Magazine Lite,Support Plan,3135.03
+71,Get Pro,Professional Services,36730.78
+72,Fire Enterprise,Professional Services,26110.58
+73,Health Suite,Cloud Subscription,10699.54
+74,Both Pro,Add-on Module,39097.36
+75,Accept Suite,Add-on Module,10227.59
+76,Hard Plus,Professional Services,13070.05
+77,Voice Enterprise,Cloud Subscription,4671.8
+78,Seven Plus,Add-on Module,20001.64
+79,Cultural Lite,Cloud Subscription,20975.51
+80,Interest Enterprise,Cloud Subscription,25752.36
+81,Hear Pro,Support Plan,35462.77
+82,Act Enterprise,Add-on Module,45309.74
+83,Blood Enterprise,Add-on Module,6929.82
+84,Lawyer Pro,Support Plan,2764.69
+85,Million Lite,Professional Services,975.64
+86,Decade Enterprise,Support Plan,7223.89
+87,Become Lite,Add-on Module,32914.58
+88,Newspaper Lite,Add-on Module,36387.48
+89,My Lite,Professional Services,39335.96
+90,Way Suite,Support Plan,12223.23
+91,Class Core,Software License,15329.45
+92,Item Lite,Software License,24182.58
+93,Candidate Pro,Professional Services,3206.0
+94,White Core,Support Plan,30576.52
+95,Method Lite,Support Plan,49187.56
+96,Account Pro,Cloud Subscription,18072.28
+97,Clearly Pro,Add-on Module,37654.73
+98,Specific Plus,Hardware,25026.69
+99,Realize Plus,Professional Services,6434.2
+100,Enough Enterprise,Hardware,29132.76
+101,Draw Lite,Hardware,15028.72
+102,Many Lite,Professional Services,1768.44
+103,Indicate Core,Support Plan,31764.74
+104,House Pro,Professional Services,42953.67
+105,Firm Lite,Hardware,17271.25
+106,His Enterprise,Add-on Module,19545.26
+107,Later Suite,Add-on Module,44556.53
+108,Wait Pro,Add-on Module,40689.76
+109,Court Suite,Support Plan,35761.89
+110,Not Enterprise,Software License,12477.41
+111,Task Plus,Professional Services,45515.32
+112,Exist Enterprise,Add-on Module,7763.07
+113,Boy Suite,Professional Services,31357.19
+114,Leg Pro,Add-on Module,1488.62
+115,Realize Core,Support Plan,32203.8
+116,Those Lite,Software License,13893.36
+117,Leg Enterprise,Software License,22511.37
+118,Color Pro,Add-on Module,17295.96
+119,Challenge Lite,Support Plan,8679.2
+120,Health Plus,Cloud Subscription,31117.94
+121,Small Plus,Professional Services,44104.68
+122,Leader Lite,Professional Services,47956.26
+123,Accept Plus,Hardware,9657.7
+124,Her Pro,Support Plan,35882.77
+125,Use Enterprise,Hardware,33233.75
+126,Truth Pro,Add-on Module,17201.72
+127,Security Pro,Hardware,1004.01
+128,Decide Lite,Software License,34505.07
+129,Bring Core,Professional Services,47277.47
+130,Customer Core,Hardware,31624.4
+131,Feel Enterprise,Software License,21792.87
+132,Amount Lite,Support Plan,26281.44
+133,Cell Core,Hardware,10021.46
+134,Indicate Plus,Add-on Module,37539.68
+135,Know Core,Add-on Module,37333.67
+136,Six Plus,Add-on Module,7318.59
+137,Glass Enterprise,Professional Services,43905.02
+138,Wear Pro,Hardware,13496.03
+139,Almost Pro,Support Plan,49113.69
+140,College Core,Hardware,19176.01
+141,Reflect Plus,Professional Services,8935.31
+142,Decide Suite,Software License,17618.42
+143,Measure Suite,Professional Services,22037.01
+144,Reduce Suite,Add-on Module,3511.92
+145,Exactly Pro,Software License,28932.01
+146,By Lite,Add-on Module,29901.74
+147,Know Pro,Cloud Subscription,36959.58
+148,Middle Lite,Professional Services,1507.04
+149,Oil Plus,Professional Services,27084.85
+150,Mission Core,Support Plan,2692.73
+151,Such Suite,Hardware,35072.15
+152,Rest Plus,Software License,2833.61
+153,Send Plus,Software License,45590.81
+154,Care Core,Support Plan,35119.02
+155,Garden Plus,Support Plan,25394.12
+156,Society Core,Hardware,22103.12
+157,South Enterprise,Add-on Module,6577.1
+158,Statement Core,Hardware,14585.42
+159,Upon Suite,Professional Services,43454.51
+160,Instead Lite,Add-on Module,45227.42
+161,More Lite,Cloud Subscription,87.35
+162,She Suite,Hardware,29727.11
+163,Wind Lite,Support Plan,35979.07
+164,Site Core,Add-on Module,30956.41
+165,Threat Enterprise,Hardware,4129.9
+166,That Lite,Software License,10925.36
+167,Improve Enterprise,Cloud Subscription,12554.5
+168,Catch Suite,Professional Services,41594.65
+169,Break Enterprise,Software License,23186.81
+170,Box Plus,Software License,24367.07
+171,Structure Pro,Cloud Subscription,46747.91
+172,Against Plus,Professional Services,31872.44
+173,Card Suite,Support Plan,44938.45
+174,Clearly Lite,Add-on Module,22852.62
+175,Guy Lite,Professional Services,7514.34
+176,Month Enterprise,Hardware,46500.28
+177,Add Core,Software License,22962.32
+178,Speak Pro,Hardware,9122.49
+179,Return Core,Support Plan,15154.67
+180,Economic Suite,Hardware,2587.59
+181,Area Lite,Professional Services,23441.61
+182,Resource Enterprise,Hardware,42663.75
+183,Themselves Lite,Support Plan,46682.34
+184,Guess Core,Support Plan,46633.48
+185,Laugh Core,Support Plan,6305.24
+186,Picture Pro,Professional Services,19133.59
+187,Sing Pro,Support Plan,1460.03
+188,Across Enterprise,Software License,42765.51
+189,Leader Pro,Support Plan,17969.85
+190,Media Core,Hardware,31574.3
+191,Figure Core,Add-on Module,35759.18
+192,Father Suite,Hardware,21520.74
+193,Mention Core,Add-on Module,15356.79
+194,Beautiful Enterprise,Hardware,48112.53
+195,Sort Plus,Professional Services,48226.19
+196,Laugh Suite,Hardware,14507.35
+197,End Suite,Professional Services,24007.27
+198,Prepare Enterprise,Professional Services,48643.57
+199,Claim Enterprise,Support Plan,293.18
+200,Shoulder Pro,Software License,20663.28
+201,Much Suite,Add-on Module,5067.85
+202,Culture Pro,Support Plan,25482.44
+203,Enjoy Core,Support Plan,1282.26
+204,Fast Suite,Professional Services,20374.58
+205,Speak Suite,Professional Services,11073.92
+206,Building Lite,Add-on Module,26688.75
+207,Treat Plus,Hardware,49799.88
+208,Everyone Suite,Hardware,40036.78
+209,School Core,Support Plan,42289.82
+210,End Pro,Cloud Subscription,31781.49
+211,Reflect Pro,Cloud Subscription,2125.91
+212,Tend Lite,Hardware,10379.54
+213,Laugh Plus,Cloud Subscription,46256.97
+214,Decide Core,Hardware,18337.35
+215,Matter Pro,Professional Services,5226.65
+216,Seat Enterprise,Support Plan,35135.15
+217,Stay Core,Software License,15007.91
+218,Take Core,Support Plan,13479.4
+219,Board Plus,Hardware,49898.97
+220,School Pro,Hardware,42914.04
+221,Show Core,Support Plan,20426.49
+222,Morning Lite,Add-on Module,49014.05
+223,Popular Lite,Hardware,32523.16
+224,Course Pro,Cloud Subscription,37114.02
+225,Current Lite,Cloud Subscription,1624.08
+226,Top Enterprise,Hardware,6124.18
+227,Perhaps Plus,Hardware,31672.6
+228,Professional Lite,Add-on Module,44956.25
+229,Protect Lite,Cloud Subscription,31206.0
+230,Church Enterprise,Hardware,6744.54
+231,Drop Plus,Hardware,5832.21
+232,Camera Core,Add-on Module,42217.09
+233,Cause Plus,Add-on Module,7008.15
+234,Institution Suite,Support Plan,26035.59
+235,American Pro,Add-on Module,1903.81
+236,Eye Pro,Software License,4079.45
+237,Dark Suite,Cloud Subscription,33633.8
+238,Woman Enterprise,Support Plan,34474.61
+239,Child Suite,Software License,17106.4
+240,Last Core,Hardware,10819.71
+241,Affect Core,Hardware,40694.83
+242,Practice Pro,Support Plan,10894.31
+243,Decision Core,Add-on Module,27124.25
+244,Benefit Pro,Hardware,48412.03
+245,Treatment Suite,Professional Services,7435.23
+246,Approach Suite,Support Plan,47046.77
+247,Husband Lite,Software License,9185.51
+248,Involve Lite,Support Plan,28393.79
+249,Network Suite,Cloud Subscription,18881.54
+250,Follow Pro,Add-on Module,48248.18
+251,Scene Suite,Add-on Module,13713.42
+252,Property Suite,Support Plan,20012.92
+253,During Enterprise,Hardware,49143.86
+254,Doctor Suite,Hardware,26846.7
+255,Great Core,Professional Services,25156.37
+256,Last Pro,Professional Services,12926.04
+257,Measure Enterprise,Add-on Module,35083.11
+258,Ask Lite,Professional Services,767.93
+259,Mrs Plus,Software License,2523.16
+260,Late Pro,Professional Services,29987.96
+261,Quickly Core,Software License,17116.64
+262,Approach Pro,Professional Services,47668.15
+263,Fly Lite,Add-on Module,45164.38
+264,Break Core,Add-on Module,35699.63
+265,Exist Core,Software License,40916.37
+266,Himself Plus,Support Plan,33383.23
+267,Fast Pro,Add-on Module,6322.83
+268,Yes Plus,Support Plan,38288.89
+269,Have Plus,Hardware,10549.09
+270,Seek Pro,Software License,16205.97
+271,Kid Suite,Add-on Module,40970.75
+272,Employee Suite,Cloud Subscription,26849.45
+273,Front Lite,Hardware,43004.04
+274,Want Plus,Support Plan,10691.11
+275,Anyone Enterprise,Add-on Module,30408.53
+276,Court Plus,Software License,4235.36
+277,Amount Plus,Professional Services,32170.9
+278,A Plus,Cloud Subscription,38138.58
+279,Area Lite,Support Plan,29267.3
+280,Recent Suite,Hardware,13348.26
+281,Size Lite,Software License,1615.57
+282,Fund Lite,Cloud Subscription,6016.47
+283,Difference Lite,Software License,31134.03
+284,Feeling Suite,Add-on Module,46724.29
+285,Marriage Suite,Professional Services,10366.39
+286,Far Plus,Hardware,36764.56
+287,When Lite,Software License,43329.23
+288,Policy Enterprise,Support Plan,26068.06
+289,Blood Suite,Add-on Module,33479.83
+290,Lawyer Pro,Add-on Module,40760.02
+291,Crime Pro,Hardware,13070.72
+292,Entire Pro,Add-on Module,14879.94
+293,Million Core,Support Plan,81.34
+294,Himself Plus,Software License,48156.55
+295,Good Pro,Hardware,45881.37
+296,Fly Plus,Add-on Module,38240.18
+297,Brother Pro,Add-on Module,3999.85
+298,Bill Enterprise,Support Plan,22402.77
+299,Relationship Plus,Professional Services,5139.49
+300,Add Pro,Professional Services,845.22
+301,Result Suite,Add-on Module,30828.34
+302,Old Plus,Software License,48043.43
+303,Speech Core,Hardware,45148.26
+304,Training Suite,Add-on Module,34852.9
+305,Case Suite,Cloud Subscription,4877.2
+306,Glass Lite,Hardware,13744.49
+307,Herself Core,Professional Services,16036.83
+308,Site Suite,Add-on Module,38169.35
+309,Take Suite,Support Plan,40122.35
+310,High Pro,Cloud Subscription,19286.05
+311,Situation Pro,Add-on Module,20923.31
+312,Start Plus,Software License,2273.23
+313,Perform Plus,Cloud Subscription,14492.38
+314,Newspaper Plus,Add-on Module,22591.69
+315,Point Pro,Software License,5893.3
+316,Hot Plus,Cloud Subscription,22690.71
+317,Economy Suite,Software License,42666.13
+318,Rate Pro,Software License,29086.98
+319,Fact Plus,Cloud Subscription,3992.55
+320,Develop Suite,Cloud Subscription,9623.98
+321,Pattern Plus,Software License,23753.49
+322,If Enterprise,Professional Services,18106.28
+323,Begin Plus,Cloud Subscription,17968.41
+324,Very Enterprise,Add-on Module,26486.91
+325,Born Plus,Hardware,29240.58
+326,Case Lite,Support Plan,39853.24
+327,Professional Lite,Software License,17081.28
+328,Situation Core,Software License,40283.04
+329,Play Lite,Support Plan,16963.63
+330,Camera Lite,Professional Services,2818.88
+331,Analysis Plus,Support Plan,27731.67
+332,Peace Pro,Cloud Subscription,29415.72
+333,While Pro,Support Plan,46730.29
+334,Usually Enterprise,Software License,36316.76
+335,Real Pro,Support Plan,45892.74
+336,Television Suite,Hardware,45421.94
+337,Cut Core,Add-on Module,30248.48
+338,Data Lite,Cloud Subscription,26411.72
+339,Sea Core,Support Plan,27894.18
+340,Like Suite,Software License,48917.62
+341,Wish Lite,Add-on Module,38669.73
+342,Bit Enterprise,Cloud Subscription,5357.98
+343,Bad Suite,Software License,38932.5
+344,Year Suite,Professional Services,8568.38
+345,Office Core,Hardware,22395.16
+346,Present Plus,Professional Services,10562.46
+347,Gun Core,Hardware,34494.67
+348,Fish Core,Support Plan,43871.62
+349,Share Pro,Cloud Subscription,14553.58
+350,Matter Suite,Support Plan,4146.44
+351,Sort Core,Hardware,14959.73
+352,Defense Suite,Hardware,33634.47
+353,None Pro,Hardware,16471.57
+354,Set Suite,Add-on Module,13941.7
+355,Class Core,Software License,9262.54
+356,Animal Suite,Cloud Subscription,24900.95
+357,Care Lite,Support Plan,13833.64
+358,Dark Pro,Support Plan,36563.97
+359,Kid Plus,Professional Services,3877.29
+360,Oil Suite,Hardware,33218.45
+361,Seek Core,Hardware,11916.12
+362,Entire Pro,Hardware,24489.5
+363,Vote Core,Support Plan,14340.19
+364,Understand Core,Professional Services,36152.3
+365,Song Suite,Software License,47268.09
+366,Tonight Core,Add-on Module,45857.99
+367,Throughout Suite,Cloud Subscription,29192.14
+368,What Plus,Software License,23157.38
+369,Opportunity Lite,Support Plan,40924.11
+370,Hand Core,Add-on Module,34182.15
+371,Want Core,Add-on Module,9219.03
+372,History Core,Add-on Module,41054.91
+373,List Enterprise,Hardware,21472.78
+374,Professional Enterprise,Cloud Subscription,9489.83
+375,Series Pro,Support Plan,14125.78
+376,Buy Lite,Support Plan,13412.98
+377,Whether Lite,Add-on Module,25984.39
+378,Least Enterprise,Support Plan,11756.79
+379,Author Pro,Cloud Subscription,6222.15
+380,Meeting Enterprise,Cloud Subscription,6228.36
+381,Kind Plus,Professional Services,29184.65
+382,Need Pro,Professional Services,36751.23
+383,Word Lite,Software License,16110.57
+384,Most Lite,Cloud Subscription,1780.8
+385,Street Enterprise,Cloud Subscription,6404.88
+386,Age Plus,Cloud Subscription,45738.99
+387,Compare Enterprise,Professional Services,24702.51
+388,Place Suite,Add-on Module,22705.96
+389,Eye Suite,Add-on Module,1950.56
+390,Same Plus,Support Plan,36445.42
+391,Carry Core,Add-on Module,26427.0
+392,Figure Core,Hardware,10143.94
+393,Answer Suite,Professional Services,5548.18
+394,Others Suite,Cloud Subscription,19200.22
+395,Ask Core,Add-on Module,41866.24
+396,Study Pro,Professional Services,43271.46
+397,Rule Core,Add-on Module,30162.18
+398,Customer Enterprise,Software License,36390.44
+399,Sit Pro,Cloud Subscription,5802.03
+400,Teacher Enterprise,Software License,29426.9
+401,Information Suite,Cloud Subscription,33364.94
+402,Miss Pro,Professional Services,10075.61
+403,Reveal Enterprise,Support Plan,44013.73
+404,No Enterprise,Add-on Module,9790.09
+405,Truth Pro,Add-on Module,15708.19
+406,Must Plus,Hardware,31046.81
+407,Bad Core,Software License,31935.59
+408,Company Lite,Add-on Module,34984.27
+409,Left Enterprise,Professional Services,5644.99
+410,Social Core,Support Plan,42480.75
+411,Mr Lite,Professional Services,26665.71
+412,If Core,Software License,23592.52
+413,Or Suite,Hardware,49055.83
+414,State Lite,Add-on Module,37031.9
+415,In Core,Professional Services,5944.4
+416,Institution Enterprise,Cloud Subscription,37839.13
+417,Policy Lite,Support Plan,4807.68
+418,Expert Suite,Professional Services,1422.15
+419,Design Pro,Support Plan,20211.11
+420,Create Enterprise,Add-on Module,49679.23
+421,About Suite,Cloud Subscription,8785.45
+422,Collection Suite,Hardware,33648.58
+423,Owner Lite,Hardware,8711.13
+424,Discover Core,Cloud Subscription,36253.11
+425,Person Pro,Support Plan,25292.42
+426,Same Enterprise,Add-on Module,34014.59
+427,Act Enterprise,Professional Services,10183.52
+428,Until Core,Cloud Subscription,37294.14
+429,Without Pro,Software License,49781.17
+430,Street Lite,Support Plan,33299.24
+431,Must Enterprise,Hardware,24699.33
+432,Lose Pro,Cloud Subscription,46162.54
+433,Most Lite,Hardware,841.8
+434,Second Lite,Support Plan,36509.68
+435,Service Enterprise,Hardware,44442.89
+436,Network Core,Cloud Subscription,3130.65
+437,Event Plus,Support Plan,22530.71
+438,Floor Enterprise,Software License,10275.74
+439,Together Suite,Cloud Subscription,28347.58
+440,Discussion Suite,Professional Services,32494.67
+441,Fine Lite,Add-on Module,15166.03
+442,Section Plus,Cloud Subscription,23026.08
+443,Executive Enterprise,Support Plan,14003.01
+444,Old Suite,Add-on Module,18501.09
+445,By Suite,Cloud Subscription,8019.02
+446,Congress Enterprise,Software License,44283.69
+447,Door Pro,Software License,550.02
+448,Answer Lite,Professional Services,44126.34
+449,None Enterprise,Hardware,28605.36
+450,Economy Pro,Add-on Module,16616.31
+451,Film Lite,Support Plan,36166.7
+452,Among Plus,Support Plan,25412.22
+453,Purpose Core,Hardware,24980.48
+454,Choose Lite,Software License,5551.61
+455,Year Plus,Software License,19506.33
+456,Use Core,Cloud Subscription,12091.16
+457,Fall Suite,Professional Services,834.01
+458,Within Suite,Add-on Module,18036.98
+459,Cell Suite,Professional Services,4536.62
+460,Expect Lite,Professional Services,12878.66
+461,Tv Pro,Cloud Subscription,4671.21
+462,Street Core,Professional Services,5092.03
+463,Approach Suite,Hardware,9990.61
+464,Quality Enterprise,Cloud Subscription,49992.47
+465,Energy Core,Hardware,159.1
+466,Than Core,Cloud Subscription,31951.7
+467,Develop Pro,Professional Services,7105.12
+468,Nor Plus,Hardware,46035.38
+469,Business Pro,Hardware,4726.96
+470,Ability Suite,Hardware,47755.41
+471,Range Enterprise,Cloud Subscription,30565.77
+472,Hand Enterprise,Support Plan,113.34
+473,Project Suite,Professional Services,44705.66
+474,Point Enterprise,Hardware,26109.5
+475,Home Pro,Add-on Module,13170.35
+476,Garden Lite,Support Plan,38375.59
+477,Because Pro,Add-on Module,46336.94
+478,Your Lite,Professional Services,24210.36
+479,Season Suite,Professional Services,15811.9
+480,Usually Enterprise,Hardware,39457.81
+481,Often Core,Hardware,34105.19
+482,Everything Plus,Cloud Subscription,44443.19
+483,Seven Core,Support Plan,34641.07
+484,Cell Lite,Support Plan,12214.24
+485,Issue Pro,Hardware,46586.38
+486,Water Pro,Professional Services,5286.55
+487,Population Pro,Hardware,13433.74
+488,Financial Pro,Professional Services,26033.72
+489,Garden Plus,Professional Services,28308.81
+490,Art Suite,Hardware,814.76
+491,Process Pro,Software License,39039.61
+492,Team Lite,Support Plan,18112.29
+493,Action Enterprise,Add-on Module,20350.61
+494,Than Plus,Professional Services,40478.01
+495,Heart Lite,Professional Services,18995.21
+496,Discuss Lite,Software License,2408.88
+497,Side Pro,Add-on Module,8863.17
+498,Far Enterprise,Cloud Subscription,47797.36
+499,Control Pro,Software License,3566.75
+500,Establish Lite,Add-on Module,17778.81
+501,Admit Suite,Software License,25183.8
+502,Note Plus,Professional Services,24689.38
+503,Really Suite,Support Plan,247.8
+504,Trip Plus,Software License,25083.08
+505,Star Pro,Cloud Subscription,19219.43
+506,Wrong Pro,Hardware,48605.36
+507,Statement Plus,Add-on Module,8000.0
+508,Past Enterprise,Software License,17740.0
+509,Born Enterprise,Software License,21003.1
+510,Seven Pro,Cloud Subscription,19565.14
+511,Skill Pro,Support Plan,33308.25
+512,Rise Suite,Software License,10814.87
+513,Idea Lite,Software License,11092.52
+514,Young Pro,Support Plan,36474.09
+515,Ready Plus,Cloud Subscription,25039.51
+516,Even Enterprise,Add-on Module,20787.03
+517,True Enterprise,Add-on Module,8501.69
+518,Produce Suite,Software License,9416.98
+519,Protect Enterprise,Support Plan,577.05
+520,Pm Enterprise,Software License,4616.74
+521,Ok Lite,Hardware,27864.09
+522,Design Core,Add-on Module,44599.06
+523,Technology Plus,Professional Services,14393.88
+524,Letter Lite,Hardware,16420.97
+525,Discussion Core,Software License,5824.5
+526,Garden Enterprise,Cloud Subscription,19462.12
+527,Exist Suite,Add-on Module,1909.22
+528,Democrat Suite,Professional Services,45884.15
+529,Party Enterprise,Hardware,33671.91
+530,Professional Pro,Add-on Module,49537.9
+531,System Core,Support Plan,44147.02
+532,Toward Enterprise,Cloud Subscription,23675.88
+533,Soldier Suite,Hardware,26008.27
+534,Indicate Suite,Support Plan,9569.27
+535,Clearly Core,Software License,23128.87
+536,Like Plus,Support Plan,45156.24
+537,Each Enterprise,Hardware,2590.13
+538,Show Lite,Hardware,43184.66
+539,She Enterprise,Software License,17080.34
+540,Leader Plus,Support Plan,44980.66
+541,Home Core,Support Plan,47046.95
+542,Choose Core,Software License,33559.7
+543,Week Suite,Support Plan,33237.97
+544,Measure Plus,Add-on Module,22665.08
+545,Better Core,Software License,41785.23
+546,Mission Pro,Cloud Subscription,48082.56
+547,Course Enterprise,Hardware,38765.34
+548,Machine Suite,Cloud Subscription,31115.74
+549,Crime Lite,Add-on Module,30359.31
+550,Team Plus,Add-on Module,42481.02
+551,Travel Suite,Professional Services,27083.13
+552,Control Core,Professional Services,40202.8
+553,Current Core,Professional Services,25468.82
+554,Over Lite,Software License,3169.09
+555,Military Lite,Support Plan,19228.15
+556,Yes Lite,Add-on Module,22249.83
+557,Shoulder Lite,Cloud Subscription,7123.78
+558,Couple Lite,Cloud Subscription,5169.69
+559,Raise Pro,Cloud Subscription,26796.47
+560,Father Enterprise,Cloud Subscription,4302.92
+561,Against Plus,Professional Services,15182.11
+562,Force Suite,Cloud Subscription,37242.62
+563,Commercial Lite,Support Plan,48223.39
+564,Value Enterprise,Professional Services,35907.64
+565,Cost Core,Cloud Subscription,49631.65
+566,Television Enterprise,Software License,34931.98
+567,Indeed Lite,Hardware,14725.03
+568,Right Suite,Hardware,33619.02
+569,Political Lite,Hardware,35122.73
+570,Cup Enterprise,Professional Services,18617.76
+571,Available Core,Cloud Subscription,934.81
+572,Character Enterprise,Add-on Module,35174.83
+573,Away Lite,Add-on Module,1133.92
+574,Last Plus,Add-on Module,31577.84
+575,Else Enterprise,Professional Services,8222.64
+576,Look Plus,Support Plan,28301.9
+577,When Lite,Software License,25220.46
+578,Quite Enterprise,Software License,725.01
+579,Interesting Core,Hardware,18175.15
+580,Black Pro,Hardware,30074.5
+581,Shake Pro,Add-on Module,42437.9
+582,New Plus,Add-on Module,44437.67
+583,Certain Lite,Hardware,24218.31
+584,Short Plus,Cloud Subscription,36434.7
+585,Social Lite,Support Plan,15856.91
+586,System Lite,Support Plan,17142.21
+587,Actually Pro,Support Plan,9763.45
+588,Player Core,Support Plan,28119.31
+589,Black Core,Hardware,15762.48
+590,Huge Enterprise,Software License,4264.33
+591,If Plus,Hardware,34266.05
+592,Against Core,Support Plan,35402.27
+593,Break Suite,Hardware,18031.62
+594,The Enterprise,Support Plan,3882.33
+595,Add Enterprise,Professional Services,21343.57
+596,Source Pro,Add-on Module,22144.66
+597,Then Plus,Software License,33450.11
+598,Quickly Core,Professional Services,15805.05
+599,Worry Core,Cloud Subscription,34145.83
+600,Animal Lite,Hardware,43580.85
+601,Cause Enterprise,Cloud Subscription,11912.43
+602,Energy Plus,Hardware,48947.03
+603,Speech Plus,Add-on Module,19349.09
+604,Because Plus,Professional Services,13399.57
+605,Executive Lite,Add-on Module,21104.48
+606,Character Pro,Support Plan,4765.15
+607,Wrong Core,Add-on Module,6329.01
+608,Product Plus,Add-on Module,20750.98
+609,Plan Lite,Support Plan,38134.1
+610,Add Pro,Hardware,45020.6
+611,Structure Lite,Support Plan,33257.66
+612,Act Suite,Professional Services,5305.72
+613,Strong Enterprise,Add-on Module,33617.39
+614,Born Core,Support Plan,31789.62
+615,Occur Lite,Add-on Module,40297.91
+616,Simply Lite,Professional Services,41271.17
+617,Television Core,Cloud Subscription,43416.74
+618,Ground Enterprise,Professional Services,20735.87
+619,Tonight Suite,Software License,34908.33
+620,Second Pro,Software License,13449.11
+621,Bed Lite,Software License,49966.85
+622,Degree Enterprise,Add-on Module,8807.95
+623,Chair Pro,Hardware,555.22
+624,Media Pro,Hardware,7483.0
+625,Song Pro,Hardware,38804.82
+626,Order Suite,Add-on Module,22366.84
+627,Wait Suite,Professional Services,22402.64
+628,Life Pro,Hardware,47753.39
+629,Team Plus,Cloud Subscription,45985.76
+630,Common Core,Software License,15594.18
+631,Food Suite,Professional Services,10492.45
+632,Glass Plus,Software License,42431.69
+633,Measure Plus,Hardware,45305.65
+634,Clear Lite,Professional Services,27102.77
+635,Either Core,Support Plan,31489.71
+636,Arrive Pro,Cloud Subscription,12882.87
+637,Of Lite,Hardware,40050.09
+638,Role Lite,Hardware,31624.52
+639,Example Plus,Cloud Subscription,25200.5
+640,Product Plus,Cloud Subscription,3052.42
+641,Of Plus,Support Plan,45800.95
+642,Candidate Pro,Hardware,30791.8
+643,Against Pro,Add-on Module,9674.92
+644,Thank Lite,Hardware,30338.99
+645,Another Lite,Software License,33889.29
+646,Board Suite,Professional Services,26312.23
+647,Off Suite,Professional Services,35919.18
+648,Fine Plus,Software License,29093.62
+649,Board Pro,Professional Services,47391.09
+650,Much Pro,Cloud Subscription,2732.17
+651,Various Lite,Professional Services,5356.97
+652,Think Core,Professional Services,8724.9
+653,Just Plus,Software License,34524.04
+654,Change Suite,Support Plan,32297.51
+655,Ability Core,Professional Services,44608.34
+656,While Pro,Add-on Module,36657.23
+657,Door Suite,Professional Services,25442.36
+658,Agent Plus,Support Plan,49592.0
+659,Dream Pro,Software License,13342.09
+660,Late Plus,Support Plan,41667.92
+661,Image Lite,Software License,21368.18
+662,Choice Core,Cloud Subscription,32454.32
+663,Head Core,Software License,36377.06
+664,Reality Core,Cloud Subscription,31706.02
+665,Few Enterprise,Cloud Subscription,7068.34
+666,Draw Plus,Software License,22175.4
+667,Will Core,Add-on Module,28093.85
+668,Until Lite,Hardware,42459.74
+669,Return Core,Software License,22210.11
+670,If Plus,Professional Services,45941.43
+671,Right Core,Add-on Module,22046.69
+672,Usually Plus,Add-on Module,27461.55
+673,Senior Pro,Professional Services,39824.47
+674,Test Lite,Hardware,29174.23
+675,Week Plus,Add-on Module,48012.89
+676,Budget Plus,Cloud Subscription,33033.77
+677,Million Enterprise,Hardware,26159.34
+678,Condition Pro,Professional Services,1228.42
+679,Break Lite,Hardware,20715.96
+680,Door Enterprise,Software License,14997.46
+681,Blue Core,Hardware,37417.88
+682,Father Plus,Cloud Subscription,10453.47
+683,Heavy Lite,Software License,10300.74
+684,Ball Pro,Support Plan,9516.48
+685,Power Enterprise,Professional Services,6324.5
+686,Goal Plus,Professional Services,15584.8
+687,By Suite,Hardware,44301.81
+688,Herself Lite,Add-on Module,38757.68
+689,Wind Enterprise,Software License,36775.8
+690,Window Pro,Support Plan,39876.97
+691,Wide Enterprise,Software License,13507.42
+692,Become Enterprise,Professional Services,44377.71
+693,War Enterprise,Software License,6908.3
+694,Animal Core,Support Plan,16850.47
+695,Point Suite,Add-on Module,29358.07
+696,City Pro,Hardware,5190.11
+697,Could Pro,Cloud Subscription,36520.0
+698,Later Pro,Software License,19392.94
+699,Nice Plus,Cloud Subscription,39231.06
+700,Good Lite,Professional Services,24670.17
+701,Plan Pro,Hardware,9084.68
+702,Course Lite,Hardware,36751.35
+703,Respond Pro,Software License,12644.59
+704,Large Suite,Add-on Module,24565.97
+705,Citizen Plus,Hardware,3822.89
+706,Walk Plus,Software License,30912.44
+707,Region Enterprise,Software License,33309.6
+708,Right Core,Cloud Subscription,18964.78
+709,Fish Plus,Hardware,47723.42
+710,Probably Plus,Software License,43714.74
+711,Television Suite,Cloud Subscription,35411.65
+712,Few Pro,Support Plan,35696.92
+713,Happen Plus,Cloud Subscription,12657.47
+714,Type Plus,Cloud Subscription,32857.92
+715,Body Core,Software License,9950.4
+716,Experience Lite,Professional Services,7242.96
+717,Whom Suite,Professional Services,49973.42
+718,Money Core,Add-on Module,31137.68
+719,Recently Plus,Professional Services,21577.84
+720,Home Plus,Cloud Subscription,14443.82
+721,Worker Suite,Add-on Module,30215.83
+722,Evidence Enterprise,Software License,2527.2
+723,Talk Enterprise,Hardware,4779.32
+724,What Plus,Cloud Subscription,1691.19
+725,Seek Plus,Cloud Subscription,24983.53
+726,Success Core,Add-on Module,30050.3
+727,Ball Lite,Software License,3170.86
+728,Story Lite,Support Plan,36075.16
+729,Able Core,Cloud Subscription,11558.23
+730,Training Core,Support Plan,34275.81
+731,Worker Pro,Support Plan,49095.76
+732,Church Plus,Professional Services,34570.74
+733,Star Pro,Software License,44165.49
+734,Reality Enterprise,Support Plan,47412.52
+735,Choice Plus,Software License,24363.21
+736,Front Plus,Professional Services,35131.13
+737,Choose Suite,Software License,42605.86
+738,In Plus,Cloud Subscription,17862.62
+739,Likely Enterprise,Support Plan,13106.8
+740,Set Lite,Software License,47332.6
+741,Style Lite,Hardware,36328.86
+742,Stock Plus,Software License,11023.12
+743,Mean Lite,Support Plan,22481.72
+744,Teacher Pro,Professional Services,39832.77
+745,Audience Plus,Professional Services,27375.8
+746,Budget Pro,Support Plan,32515.11
+747,Participant Core,Cloud Subscription,37700.72
+748,Late Core,Cloud Subscription,31119.36
+749,Short Suite,Professional Services,27026.96
+750,Family Plus,Professional Services,37493.23
+751,Check Core,Support Plan,36391.77
+752,Believe Core,Cloud Subscription,31512.13
+753,Future Lite,Professional Services,18021.48
+754,Care Suite,Cloud Subscription,20320.31
+755,Court Suite,Professional Services,48523.41
+756,Speak Lite,Software License,5663.68
+757,Image Plus,Hardware,13461.82
+758,Head Pro,Add-on Module,24645.47
+759,From Plus,Software License,41844.65
+760,Miss Pro,Add-on Module,8225.6
+761,Language Suite,Professional Services,13883.88
+762,Medical Enterprise,Hardware,3336.62
+763,Rule Plus,Hardware,35313.96
+764,Job Enterprise,Professional Services,11948.56
+765,Play Pro,Professional Services,19464.3
+766,Student Plus,Cloud Subscription,22212.89
+767,Provide Enterprise,Professional Services,44571.13
+768,Goal Enterprise,Support Plan,20595.95
+769,Certainly Plus,Professional Services,7303.99
+770,Suffer Enterprise,Support Plan,26239.53
+771,Yet Plus,Professional Services,48149.75
+772,Ready Enterprise,Cloud Subscription,30403.9
+773,Will Suite,Support Plan,49170.19
+774,Else Plus,Software License,42063.31
+775,Identify Suite,Support Plan,1846.49
+776,Kid Lite,Cloud Subscription,32937.06
+777,Often Core,Add-on Module,14374.01
+778,Modern Suite,Support Plan,28002.86
+779,Nothing Enterprise,Professional Services,14003.29
+780,None Pro,Professional Services,17476.08
+781,Mind Lite,Add-on Module,46162.28
+782,No Suite,Cloud Subscription,10371.83
+783,Not Lite,Hardware,43711.75
+784,Term Suite,Professional Services,1571.37
+785,Drug Suite,Software License,4589.28
+786,If Pro,Cloud Subscription,42741.02
+787,Because Pro,Support Plan,31546.27
+788,Partner Suite,Support Plan,37374.45
+789,Senior Core,Software License,10510.41
+790,Know Pro,Professional Services,26877.32
+791,New Pro,Cloud Subscription,36874.1
+792,Participant Pro,Software License,31384.34
+793,Standard Plus,Professional Services,23611.35
+794,Rule Lite,Cloud Subscription,47991.2
+795,Talk Suite,Support Plan,33824.06
+796,Smile Core,Cloud Subscription,45392.15
+797,Discuss Pro,Add-on Module,36502.04
+798,Scientist Plus,Hardware,36786.4
+799,Begin Lite,Cloud Subscription,4046.91
+800,Easy Enterprise,Hardware,18005.26
+801,High Enterprise,Cloud Subscription,42925.55
+802,Able Pro,Hardware,11668.56
+803,Democrat Core,Add-on Module,5819.52
+804,Today Core,Support Plan,16339.0
+805,Adult Lite,Professional Services,11060.87
+806,Him Lite,Hardware,46268.15
+807,Open Suite,Add-on Module,43404.93
+808,Matter Pro,Hardware,25009.18
+809,Cell Enterprise,Support Plan,3114.13
+810,Will Suite,Hardware,35742.39
+811,Break Core,Add-on Module,31189.42
+812,As Suite,Add-on Module,48529.21
+813,Which Enterprise,Software License,27969.71
+814,Happy Core,Support Plan,16852.87
+815,Herself Lite,Software License,25975.13
+816,Time Plus,Support Plan,48964.2
+817,Time Plus,Hardware,34833.3
+818,Trial Lite,Add-on Module,33615.21
+819,Start Pro,Software License,12072.05
+820,Tell Suite,Hardware,37192.95
+821,Chair Core,Add-on Module,37526.08
+822,Financial Lite,Support Plan,15898.58
+823,Magazine Lite,Add-on Module,24211.51
+824,Charge Pro,Hardware,14765.44
+825,Thing Suite,Software License,12972.32
+826,Tonight Lite,Software License,1343.51
+827,Ok Enterprise,Add-on Module,14296.33
+828,Word Lite,Hardware,27720.8
+829,While Core,Cloud Subscription,129.98
+830,Know Suite,Support Plan,14196.79
+831,Eight Core,Support Plan,44076.45
+832,Develop Suite,Hardware,29702.75
+833,Their Enterprise,Cloud Subscription,30412.75
+834,Door Core,Software License,20198.05
+835,Arrive Plus,Professional Services,33839.78
+836,Skin Lite,Professional Services,9537.14
+837,Certainly Enterprise,Hardware,40946.4
+838,Buy Suite,Cloud Subscription,5878.62
+839,Safe Core,Cloud Subscription,32817.27
+840,Score Lite,Support Plan,17090.41
+841,Character Enterprise,Software License,37388.27
+842,Huge Suite,Add-on Module,27510.74
+843,Significant Plus,Cloud Subscription,22645.03
+844,Agree Plus,Add-on Module,8512.65
+845,Safe Suite,Professional Services,31859.23
+846,Language Plus,Add-on Module,48739.75
+847,Hot Enterprise,Software License,41288.89
+848,Arm Lite,Software License,3047.41
+849,Science Plus,Add-on Module,18842.66
+850,Born Lite,Hardware,46282.87
+851,Recognize Pro,Cloud Subscription,25177.04
+852,Party Plus,Hardware,33122.49
+853,Back Pro,Add-on Module,45634.34
+854,Me Lite,Cloud Subscription,43696.04
+855,Third Core,Support Plan,25115.93
+856,Phone Lite,Hardware,21910.43
+857,Truth Enterprise,Hardware,17017.65
+858,Coach Core,Add-on Module,35965.02
+859,All Core,Professional Services,14384.99
+860,Choice Plus,Add-on Module,12531.89
+861,History Plus,Hardware,17844.68
+862,Chance Plus,Cloud Subscription,8901.89
+863,Bar Lite,Professional Services,34771.23
+864,Election Core,Add-on Module,30831.22
+865,Ball Enterprise,Add-on Module,24169.78
+866,Actually Enterprise,Hardware,19546.77
+867,Outside Pro,Hardware,45457.67
+868,Theory Suite,Support Plan,1504.73
+869,Teach Enterprise,Add-on Module,38466.93
+870,Keep Plus,Hardware,45100.38
+871,Citizen Pro,Software License,22345.41
+872,Southern Plus,Professional Services,27556.99
+873,Court Core,Software License,47225.96
+874,Many Core,Professional Services,10653.26
+875,Six Lite,Add-on Module,26030.74
+876,Challenge Plus,Support Plan,23762.32
+877,Smile Enterprise,Hardware,12956.71
+878,News Suite,Hardware,40938.73
+879,Say Plus,Hardware,44985.05
+880,Firm Enterprise,Add-on Module,39107.53
+881,Many Pro,Professional Services,9808.18
+882,Its Plus,Hardware,4383.09
+883,Seven Pro,Software License,30291.95
+884,Green Enterprise,Hardware,2901.88
+885,Life Enterprise,Add-on Module,33657.65
+886,Station Enterprise,Support Plan,26544.69
+887,Quite Enterprise,Software License,33156.15
+888,Run Core,Hardware,29529.03
+889,Add Lite,Hardware,21163.99
+890,Few Enterprise,Cloud Subscription,10083.82
+891,Bring Core,Professional Services,15319.82
+892,Clearly Suite,Software License,26248.8
+893,As Core,Cloud Subscription,32610.81
+894,Upon Pro,Support Plan,38985.18
+895,Quality Suite,Professional Services,38370.18
+896,Almost Pro,Software License,48635.8
+897,Pm Lite,Hardware,14327.78
+898,Society Plus,Software License,3601.98
+899,Consumer Plus,Hardware,17315.56
+900,Most Core,Professional Services,37177.56
+901,College Pro,Hardware,21933.68
+902,Activity Lite,Support Plan,40898.53
+903,Individual Plus,Add-on Module,27488.85
+904,There Lite,Hardware,46493.1
+905,Land Lite,Support Plan,47395.78
+906,Response Plus,Add-on Module,3511.76
+907,Yourself Plus,Professional Services,22847.85
+908,Type Suite,Professional Services,30503.97
+909,Look Suite,Software License,12830.83
+910,Once Enterprise,Support Plan,20383.49
+911,Seek Pro,Support Plan,33900.19
+912,Themselves Plus,Cloud Subscription,11375.37
+913,Evening Lite,Cloud Subscription,30118.97
+914,Wide Pro,Add-on Module,34887.52
+915,Owner Enterprise,Add-on Module,4570.29
+916,More Lite,Cloud Subscription,24901.59
+917,Follow Core,Add-on Module,13190.85
+918,Security Enterprise,Hardware,36233.1
+919,Dream Plus,Cloud Subscription,9518.3
+920,Land Core,Support Plan,44617.28
+921,Word Core,Hardware,21575.52
+922,Close Enterprise,Add-on Module,9940.25
+923,Expert Plus,Professional Services,21929.19
+924,Best Lite,Software License,20466.75
+925,Nearly Core,Cloud Subscription,21474.5
+926,Huge Enterprise,Professional Services,29298.79
+927,Car Enterprise,Add-on Module,26082.63
+928,Situation Lite,Support Plan,7531.37
+929,Development Plus,Software License,3325.67
+930,Institution Enterprise,Professional Services,36484.3
+931,Present Enterprise,Software License,28007.89
+932,Arrive Enterprise,Cloud Subscription,17982.09
+933,Discuss Pro,Add-on Module,40427.47
+934,Including Suite,Support Plan,19433.52
+935,Create Lite,Add-on Module,39808.46
+936,Test Pro,Software License,15322.52
+937,Skill Enterprise,Professional Services,3688.62
+938,Operation Suite,Cloud Subscription,46635.35
+939,Point Lite,Cloud Subscription,19757.83
+940,Thought Core,Add-on Module,39644.99
+941,Bank Lite,Professional Services,13993.25
+942,Technology Pro,Professional Services,32335.94
+943,Room Pro,Software License,43671.88
+944,Management Pro,Add-on Module,2130.12
+945,Me Lite,Add-on Module,41540.26
+946,Form Plus,Hardware,28588.08
+947,Read Enterprise,Add-on Module,30393.21
+948,Quality Lite,Cloud Subscription,26181.74
+949,Interview Core,Software License,43730.03
+950,Their Core,Professional Services,2219.5
+951,Husband Core,Add-on Module,13088.37
+952,Community Enterprise,Software License,43794.34
+953,Arm Suite,Add-on Module,37629.67
+954,Suggest Pro,Professional Services,931.38
+955,Hot Enterprise,Support Plan,25874.46
+956,Radio Pro,Professional Services,26502.16
+957,Language Enterprise,Professional Services,20074.06
+958,Day Pro,Professional Services,14904.8
+959,Expect Enterprise,Add-on Module,34102.16
+960,Boy Suite,Hardware,10429.13
+961,Body Lite,Professional Services,39957.48
+962,Bank Core,Cloud Subscription,40161.71
+963,Him Pro,Cloud Subscription,20792.31
+964,Player Enterprise,Software License,14213.22
+965,Start Suite,Hardware,14229.72
+966,Throughout Suite,Software License,24140.45
+967,Government Core,Cloud Subscription,35992.98
+968,Ahead Enterprise,Cloud Subscription,17975.49
+969,Education Lite,Support Plan,30521.67
+970,Father Pro,Professional Services,19155.1
+971,Commercial Lite,Cloud Subscription,15260.93
+972,Number Plus,Add-on Module,1291.73
+973,Both Suite,Add-on Module,245.51
+974,Attention Suite,Software License,11399.02
+975,Development Core,Software License,20349.99
+976,Picture Enterprise,Professional Services,42570.5
+977,Activity Plus,Professional Services,39934.29
+978,Something Plus,Support Plan,13394.9
+979,Where Plus,Hardware,12264.8
+980,For Enterprise,Software License,11404.74
+981,Cup Pro,Professional Services,16994.91
+982,Ok Suite,Software License,24935.03
+983,Defense Enterprise,Professional Services,21961.46
+984,Pull Plus,Cloud Subscription,10952.75
+985,Woman Suite,Software License,6566.05
+986,Alone Suite,Cloud Subscription,678.26
+987,Effect Plus,Software License,7740.46
+988,Exist Plus,Hardware,35282.55
+989,Bed Suite,Support Plan,12219.75
+990,Over Core,Add-on Module,23456.66
+991,Other Lite,Add-on Module,29585.49
+992,Another Lite,Add-on Module,44347.7
+993,Organization Suite,Cloud Subscription,44448.31
+994,Street Pro,Professional Services,37299.4
+995,Member Pro,Add-on Module,1806.09
+996,Answer Core,Hardware,28774.77
+997,Anything Enterprise,Add-on Module,39339.84
+998,Forward Suite,Software License,913.54
+999,Better Pro,Cloud Subscription,27506.75
+1000,Yet Suite,Software License,42895.32
+1001,For Core,Software License,23731.4
+1002,Across Plus,Software License,255.1
+1003,Heavy Core,Support Plan,600.12
+1004,Society Core,Support Plan,20860.97
+1005,Fear Core,Professional Services,7792.68
+1006,Information Pro,Cloud Subscription,33239.31
+1007,Month Core,Hardware,35454.52
+1008,Day Plus,Hardware,8935.1
+1009,Forward Plus,Hardware,44432.24
+1010,Society Plus,Software License,22123.3
+1011,Include Enterprise,Support Plan,7185.15
+1012,She Core,Cloud Subscription,38224.37
+1013,Heart Plus,Software License,39509.23
+1014,Carry Enterprise,Support Plan,31982.81
+1015,Scientist Core,Support Plan,42680.6
+1016,Represent Core,Add-on Module,36881.78
+1017,Bill Suite,Add-on Module,44116.18
+1018,Glass Core,Cloud Subscription,21722.71
+1019,Involve Lite,Cloud Subscription,37392.48
+1020,Watch Suite,Cloud Subscription,49987.59
+1021,Site Pro,Software License,36260.31
+1022,Most Lite,Professional Services,5753.48
+1023,Blood Pro,Cloud Subscription,25940.02
+1024,Morning Enterprise,Add-on Module,29388.02
+1025,Surface Lite,Professional Services,8751.82
+1026,Stage Suite,Software License,48146.44
+1027,Citizen Pro,Professional Services,8820.21
+1028,Agent Pro,Hardware,8919.02
+1029,People Pro,Professional Services,45762.6
+1030,Style Core,Cloud Subscription,23287.01
+1031,Idea Suite,Software License,3206.25
+1032,Me Pro,Cloud Subscription,29929.47
+1033,Peace Suite,Add-on Module,30111.23
+1034,Trouble Plus,Hardware,3271.81
+1035,Together Plus,Add-on Module,48627.5
+1036,Always Lite,Cloud Subscription,27224.3
+1037,Fill Core,Cloud Subscription,28011.8
+1038,Color Plus,Cloud Subscription,26029.76
+1039,Civil Enterprise,Support Plan,30556.05
+1040,Rest Suite,Hardware,13251.77
+1041,Major Pro,Cloud Subscription,14397.71
+1042,Bar Enterprise,Cloud Subscription,25591.39
+1043,Value Lite,Add-on Module,40343.96
+1044,Process Enterprise,Add-on Module,2540.74
+1045,Better Lite,Cloud Subscription,30190.04
+1046,Serious Plus,Software License,40348.57
+1047,Each Suite,Support Plan,7888.02
+1048,Usually Lite,Add-on Module,800.38
+1049,Dinner Pro,Software License,15670.03
+1050,Surface Enterprise,Support Plan,29427.78
+1051,Responsibility Lite,Cloud Subscription,6957.24
+1052,Ready Core,Hardware,21334.81
+1053,Chance Lite,Professional Services,27638.46
+1054,Specific Pro,Professional Services,29964.21
+1055,Serious Plus,Cloud Subscription,13756.87
+1056,College Suite,Add-on Module,20031.48
+1057,More Core,Software License,38928.04
+1058,Name Pro,Hardware,47063.67
+1059,Shoulder Lite,Support Plan,43100.92
+1060,Politics Pro,Cloud Subscription,28235.96
+1061,Reach Enterprise,Hardware,20544.13
+1062,Necessary Pro,Hardware,16681.18
+1063,Wonder Suite,Add-on Module,6291.58
+1064,Specific Suite,Support Plan,5372.23
+1065,Growth Pro,Hardware,34433.46
+1066,Line Enterprise,Add-on Module,13026.73
+1067,Stock Core,Software License,12770.35
+1068,Catch Lite,Add-on Module,49909.84
+1069,Group Core,Software License,9436.9
+1070,Fill Enterprise,Software License,7445.58
+1071,Here Plus,Hardware,4979.33
+1072,Price Suite,Add-on Module,29011.28
+1073,Total Plus,Software License,31411.8
+1074,Yard Lite,Support Plan,18293.13
+1075,Lawyer Enterprise,Hardware,26793.9
+1076,Among Lite,Add-on Module,39430.56
+1077,Vote Plus,Add-on Module,40914.3
+1078,Seem Enterprise,Professional Services,47897.71
+1079,Staff Core,Add-on Module,41222.19
+1080,Result Core,Hardware,28263.83
+1081,Impact Plus,Support Plan,9023.87
+1082,Edge Plus,Add-on Module,5033.19
+1083,Detail Suite,Professional Services,2772.87
+1084,Popular Core,Hardware,33342.97
+1085,Policy Suite,Software License,40386.44
+1086,Bad Plus,Cloud Subscription,25458.76
+1087,Claim Lite,Cloud Subscription,2782.97
+1088,Our Enterprise,Software License,26796.76
+1089,Product Core,Add-on Module,46790.68
+1090,Modern Enterprise,Cloud Subscription,29900.78
+1091,Bill Suite,Cloud Subscription,40480.9
+1092,Support Suite,Software License,40017.62
+1093,Administration Pro,Add-on Module,46609.85
+1094,Character Lite,Add-on Module,38522.93
+1095,Space Core,Software License,37397.64
+1096,Truth Core,Add-on Module,11743.43
+1097,For Suite,Add-on Module,3043.26
+1098,Officer Lite,Hardware,25904.09
+1099,Trip Enterprise,Hardware,6265.49
+1100,Subject Core,Software License,48111.68
+1101,Station Suite,Support Plan,14531.74
+1102,Want Pro,Cloud Subscription,42654.56
+1103,Begin Plus,Hardware,19411.85
+1104,Moment Core,Cloud Subscription,16193.55
+1105,Between Lite,Professional Services,46761.17
+1106,Look Plus,Software License,18197.96
+1107,Former Enterprise,Support Plan,19544.88
+1108,Condition Pro,Professional Services,5349.28
+1109,World Core,Professional Services,33538.81
+1110,Find Plus,Add-on Module,14477.53
+1111,Color Lite,Professional Services,29300.93
+1112,Author Plus,Software License,29588.02
+1113,Far Suite,Hardware,35974.02
+1114,Part Plus,Software License,37274.81
+1115,Himself Enterprise,Hardware,25746.9
+1116,Head Plus,Professional Services,16583.05
+1117,Behind Enterprise,Professional Services,41880.67
+1118,Avoid Enterprise,Support Plan,15527.79
+1119,Country Lite,Hardware,25400.08
+1120,See Suite,Professional Services,20092.57
+1121,Sport Pro,Add-on Module,42761.17
+1122,Magazine Enterprise,Cloud Subscription,21624.33
+1123,Evening Plus,Support Plan,19335.65
+1124,Material Lite,Software License,34506.69
+1125,Establish Plus,Support Plan,30141.93
+1126,Source Enterprise,Cloud Subscription,5406.98
+1127,Under Lite,Hardware,25433.03
+1128,Letter Plus,Software License,36787.15
+1129,Rate Core,Software License,49604.13
+1130,Window Suite,Hardware,31475.88
+1131,Challenge Plus,Support Plan,18546.14
+1132,Yard Suite,Professional Services,11346.27
+1133,Candidate Enterprise,Support Plan,43647.87
+1134,Outside Enterprise,Cloud Subscription,40737.53
+1135,Method Enterprise,Add-on Module,11734.44
+1136,Among Suite,Professional Services,10071.57
+1137,Himself Plus,Support Plan,35771.08
+1138,Town Core,Add-on Module,15781.86
+1139,Few Suite,Add-on Module,15354.62
+1140,Institution Lite,Hardware,7656.9
+1141,Issue Core,Cloud Subscription,13235.58
+1142,Tough Plus,Cloud Subscription,21404.0
+1143,President Plus,Cloud Subscription,36655.27
+1144,Whose Suite,Professional Services,16848.59
+1145,Response Pro,Software License,16463.79
+1146,Carry Core,Professional Services,14281.42
+1147,Let Enterprise,Support Plan,23940.27
+1148,Hit Core,Add-on Module,9072.8
+1149,Music Plus,Add-on Module,24307.26
+1150,Through Lite,Software License,35223.57
+1151,Probably Plus,Support Plan,1538.04
+1152,Former Suite,Software License,538.48
+1153,Hour Pro,Add-on Module,3802.39
+1154,Because Enterprise,Professional Services,26806.22
+1155,Rest Core,Cloud Subscription,42730.03
+1156,Job Pro,Add-on Module,293.98
+1157,Move Enterprise,Hardware,46836.23
+1158,Listen Plus,Cloud Subscription,5358.61
+1159,Everyone Lite,Add-on Module,42107.08
+1160,Understand Plus,Professional Services,24168.6
+1161,Type Suite,Software License,32984.9
+1162,Rest Suite,Cloud Subscription,25558.62
+1163,And Lite,Professional Services,23878.56
+1164,Pressure Core,Support Plan,41753.23
+1165,Quickly Pro,Hardware,37806.52
+1166,Art Lite,Cloud Subscription,24195.94
+1167,Sit Pro,Software License,5626.21
+1168,Street Enterprise,Support Plan,5814.38
+1169,Election Core,Professional Services,40086.9
+1170,Scene Suite,Hardware,26493.06
+1171,Tend Core,Software License,24105.38
+1172,Option Plus,Professional Services,34044.31
+1173,Across Suite,Professional Services,42949.14
+1174,Clear Pro,Cloud Subscription,31462.21
+1175,Tonight Suite,Cloud Subscription,38154.25
+1176,Book Plus,Software License,38275.26
+1177,Fill Suite,Add-on Module,17845.26
+1178,How Lite,Add-on Module,13740.46
+1179,Cold Pro,Professional Services,40068.15
+1180,Over Plus,Cloud Subscription,18890.08
+1181,Inside Lite,Hardware,45171.63
+1182,Too Enterprise,Hardware,3531.05
+1183,Baby Core,Professional Services,2957.96
+1184,Dog Lite,Cloud Subscription,46353.86
+1185,Important Enterprise,Software License,32440.32
+1186,Two Plus,Software License,19010.99
+1187,Maintain Plus,Software License,37765.27
+1188,Relationship Plus,Hardware,33632.72
+1189,Better Pro,Cloud Subscription,26583.49
+1190,Happy Plus,Cloud Subscription,4988.72
+1191,Man Core,Hardware,40618.37
+1192,Management Pro,Software License,43307.86
+1193,Quality Plus,Software License,8649.83
+1194,Nor Pro,Professional Services,42533.06
+1195,We Core,Add-on Module,43898.47
+1196,Television Core,Support Plan,27493.96
+1197,Make Lite,Add-on Module,32826.14
+1198,Boy Pro,Cloud Subscription,19142.75
+1199,Bed Suite,Cloud Subscription,14125.49
+1200,Couple Enterprise,Cloud Subscription,36113.06
+1201,Sign Plus,Add-on Module,43100.66
+1202,Box Enterprise,Support Plan,32721.17
+1203,Whose Core,Professional Services,25603.95
+1204,Win Enterprise,Add-on Module,7988.29
+1205,Industry Suite,Support Plan,2720.26
+1206,Special Enterprise,Software License,22312.3
+1207,Lead Lite,Software License,2515.01
+1208,Decision Enterprise,Cloud Subscription,28488.26
+1209,Interest Core,Hardware,19167.32
+1210,Get Core,Cloud Subscription,37871.6
+1211,Attention Lite,Hardware,15317.14
+1212,Free Plus,Support Plan,29669.49
+1213,Guess Pro,Software License,26907.29
+1214,Pm Plus,Add-on Module,285.39
+1215,Mention Core,Hardware,3665.85
+1216,Difference Plus,Support Plan,14553.89
+1217,Scientist Enterprise,Software License,44117.64
+1218,Site Enterprise,Add-on Module,7393.4
+1219,Maybe Core,Hardware,35559.17
+1220,Building Core,Cloud Subscription,48669.66
+1221,Family Plus,Cloud Subscription,39538.85
+1222,Look Plus,Cloud Subscription,12185.12
+1223,American Enterprise,Support Plan,45422.84
+1224,Offer Pro,Cloud Subscription,4700.7
+1225,Clearly Lite,Professional Services,23433.69
+1226,Many Pro,Software License,44382.72
+1227,Child Core,Support Plan,32081.22
+1228,Push Plus,Add-on Module,20711.55
+1229,Different Pro,Cloud Subscription,14676.0
+1230,Front Plus,Software License,18786.22
+1231,Out Suite,Hardware,25471.64
+1232,Almost Enterprise,Cloud Subscription,15986.24
+1233,Plant Lite,Software License,48449.94
+1234,Staff Plus,Professional Services,46657.23
+1235,Husband Lite,Hardware,43540.04
+1236,Assume Plus,Professional Services,21120.4
+1237,Would Plus,Add-on Module,34580.52
+1238,System Lite,Software License,45146.32
+1239,High Lite,Professional Services,42528.95
+1240,Strategy Pro,Add-on Module,20745.63
+1241,Law Plus,Software License,5663.68
+1242,Material Suite,Software License,3827.74
+1243,Different Pro,Professional Services,28874.35
+1244,Arm Core,Software License,32149.27
+1245,Development Core,Cloud Subscription,42499.64
+1246,Trip Enterprise,Software License,14661.13
+1247,Agency Suite,Support Plan,8415.15
+1248,Son Plus,Add-on Module,18981.34
+1249,Return Suite,Software License,17711.08
+1250,Land Core,Support Plan,6666.82
+1251,Expect Plus,Software License,33630.52
+1252,Entire Suite,Software License,25459.16
+1253,Prove Lite,Professional Services,36070.08
+1254,Control Pro,Cloud Subscription,17666.92
+1255,Because Plus,Add-on Module,16318.83
+1256,Change Lite,Cloud Subscription,23655.16
+1257,Authority Pro,Hardware,43876.5
+1258,Eye Suite,Professional Services,2062.05
+1259,Interview Plus,Professional Services,40251.4
+1260,Beat Enterprise,Cloud Subscription,18480.93
+1261,Fire Enterprise,Professional Services,42738.22
+1262,Tv Core,Cloud Subscription,40120.04
+1263,Seem Lite,Professional Services,17470.62
+1264,Live Plus,Software License,34709.13
+1265,Try Lite,Cloud Subscription,8023.66
+1266,Kind Suite,Cloud Subscription,44819.26
+1267,Network Enterprise,Support Plan,20254.33
+1268,Difficult Lite,Professional Services,22808.5
+1269,Relationship Core,Professional Services,35302.66
+1270,Walk Plus,Cloud Subscription,41050.97
+1271,Event Enterprise,Software License,11855.32
+1272,Create Lite,Software License,33084.44
+1273,Then Lite,Add-on Module,19630.3
+1274,Arm Plus,Software License,18466.71
+1275,Best Core,Professional Services,34516.79
+1276,Want Suite,Support Plan,19389.8
+1277,Week Core,Cloud Subscription,17338.12
+1278,Later Suite,Hardware,41802.63
+1279,Guess Pro,Support Plan,5108.74
+1280,Some Lite,Hardware,33810.84
+1281,Finish Lite,Support Plan,12473.83
+1282,Community Enterprise,Software License,824.14
+1283,Decide Pro,Professional Services,8379.88
+1284,Happy Lite,Hardware,30352.74
+1285,Year Suite,Support Plan,35470.9
+1286,Kind Plus,Professional Services,1101.84
+1287,Meet Suite,Hardware,1869.45
+1288,May Lite,Cloud Subscription,45131.98
+1289,North Lite,Support Plan,3711.63
+1290,Risk Suite,Cloud Subscription,44714.4
+1291,Step Plus,Software License,11446.89
+1292,College Pro,Cloud Subscription,37013.89
+1293,Same Lite,Cloud Subscription,15521.18
+1294,Leave Enterprise,Add-on Module,42944.66
+1295,Hear Suite,Support Plan,35037.72
+1296,While Suite,Software License,20120.58
+1297,Room Enterprise,Cloud Subscription,3861.31
+1298,Own Suite,Professional Services,36648.37
+1299,Improve Enterprise,Hardware,30863.39
+1300,Test Enterprise,Cloud Subscription,195.44
+1301,Action Enterprise,Software License,520.52
+1302,Option Plus,Cloud Subscription,40449.21
+1303,Stay Pro,Hardware,13007.02
+1304,Wall Pro,Software License,31824.88
+1305,Picture Core,Support Plan,22738.01
+1306,Decide Plus,Software License,43178.33
+1307,Bank Core,Support Plan,45852.21
+1308,Several Lite,Software License,49840.55
+1309,Region Pro,Hardware,7726.52
+1310,Particular Pro,Hardware,43155.05
+1311,Practice Pro,Software License,13337.77
+1312,Check Suite,Cloud Subscription,29561.25
+1313,Game Core,Hardware,25313.35
+1314,Red Plus,Support Plan,948.51
+1315,Than Core,Support Plan,46641.93
+1316,Wrong Lite,Professional Services,3962.44
+1317,Similar Pro,Add-on Module,34426.54
+1318,Situation Plus,Add-on Module,39261.09
+1319,That Core,Add-on Module,39774.63
+1320,Since Pro,Support Plan,6817.95
+1321,Significant Pro,Professional Services,22406.12
+1322,Free Plus,Add-on Module,41479.97
+1323,Address Lite,Add-on Module,15168.83
+1324,City Enterprise,Software License,23414.05
+1325,Watch Plus,Software License,13676.05
+1326,Low Enterprise,Software License,23204.39
+1327,World Lite,Cloud Subscription,44397.5
+1328,Choose Suite,Add-on Module,22783.46
+1329,Money Plus,Cloud Subscription,27817.81
+1330,Treatment Enterprise,Professional Services,20228.62
+1331,Free Lite,Support Plan,23032.85
+1332,Build Core,Add-on Module,807.95
+1333,Structure Pro,Support Plan,14223.09
+1334,Represent Suite,Software License,21857.26
+1335,Investment Plus,Add-on Module,31708.16
+1336,Everyone Enterprise,Hardware,22530.09
+1337,Near Core,Cloud Subscription,16923.96
+1338,Seven Enterprise,Cloud Subscription,19435.53
+1339,About Lite,Add-on Module,12152.55
+1340,Little Plus,Software License,46228.49
+1341,Yes Lite,Cloud Subscription,26111.07
+1342,There Enterprise,Software License,719.8
+1343,Tough Plus,Professional Services,1021.34
+1344,Car Enterprise,Support Plan,48649.43
+1345,Protect Pro,Hardware,11111.47
+1346,Listen Plus,Support Plan,40290.13
+1347,Purpose Plus,Support Plan,2960.85
+1348,Particular Suite,Professional Services,46062.08
+1349,Bill Pro,Cloud Subscription,43727.13
+1350,Although Plus,Hardware,28576.1
+1351,Discover Core,Cloud Subscription,499.48
+1352,Skill Enterprise,Add-on Module,12927.65
+1353,Cup Core,Support Plan,20370.79
+1354,Kitchen Enterprise,Add-on Module,23030.2
+1355,Same Lite,Software License,14919.05
+1356,Office Enterprise,Support Plan,1695.75
+1357,Staff Suite,Cloud Subscription,29526.86
+1358,Compare Lite,Support Plan,26231.53
+1359,Plant Plus,Software License,14185.88
+1360,Huge Enterprise,Professional Services,1946.9
+1361,Direction Suite,Add-on Module,49729.98
+1362,Happen Core,Add-on Module,24125.21
+1363,Determine Lite,Cloud Subscription,37812.41
+1364,Cut Lite,Support Plan,22643.09
+1365,Respond Suite,Cloud Subscription,2206.36
+1366,Part Core,Professional Services,15514.56
+1367,Address Lite,Support Plan,16039.5
+1368,Hospital Plus,Support Plan,41925.73
+1369,Teach Enterprise,Cloud Subscription,32728.79
+1370,Himself Pro,Cloud Subscription,13807.72
+1371,Admit Core,Software License,48388.61
+1372,Five Enterprise,Professional Services,16111.01
+1373,Watch Pro,Software License,49911.79
+1374,Food Lite,Add-on Module,49808.38
+1375,Morning Pro,Support Plan,9600.97
+1376,Tell Core,Cloud Subscription,15671.42
+1377,Trip Enterprise,Support Plan,24327.91
+1378,Capital Lite,Support Plan,33221.83
+1379,Scene Lite,Hardware,26425.97
+1380,Money Lite,Add-on Module,48473.6
+1381,Range Lite,Hardware,36213.26
+1382,Lose Pro,Support Plan,10641.64
+1383,Job Lite,Cloud Subscription,5299.62
+1384,Item Suite,Support Plan,34435.64
+1385,He Lite,Add-on Module,7964.7
+1386,He Lite,Hardware,39394.46
+1387,Them Suite,Cloud Subscription,15586.28
+1388,Occur Enterprise,Support Plan,16378.32
+1389,Last Plus,Professional Services,589.38
+1390,Necessary Suite,Add-on Module,35065.51
+1391,Southern Core,Add-on Module,5707.82
+1392,Government Enterprise,Professional Services,38655.38
+1393,Build Lite,Support Plan,24618.8
+1394,With Pro,Add-on Module,39224.78
+1395,Control Suite,Cloud Subscription,29217.13
+1396,Low Enterprise,Support Plan,4167.54
+1397,Later Enterprise,Support Plan,38294.33
+1398,Hour Lite,Hardware,3536.48
+1399,Cost Plus,Add-on Module,23961.15
+1400,On Pro,Add-on Module,8658.84
+1401,Physical Pro,Professional Services,37629.14
+1402,Commercial Pro,Hardware,45583.98
+1403,Occur Core,Hardware,27728.6
+1404,Least Enterprise,Add-on Module,26381.01
+1405,I Core,Support Plan,38209.96
+1406,Feel Core,Hardware,303.69
+1407,Through Enterprise,Professional Services,45892.04
+1408,Receive Pro,Hardware,9912.57
+1409,Risk Enterprise,Professional Services,49206.74
+1410,Response Plus,Hardware,36825.88
+1411,Leave Enterprise,Professional Services,38723.84
+1412,Protect Lite,Hardware,32827.34
+1413,Federal Enterprise,Hardware,23609.58
+1414,Science Suite,Cloud Subscription,28602.8
+1415,Pressure Plus,Professional Services,2367.82
+1416,Writer Suite,Professional Services,31216.78
+1417,Wish Pro,Professional Services,31323.6
+1418,Western Pro,Software License,44565.48
+1419,Tough Lite,Hardware,25307.54
+1420,Bit Lite,Professional Services,3903.36
+1421,Begin Lite,Add-on Module,15344.49
+1422,Sure Plus,Software License,32798.69
+1423,Third Core,Cloud Subscription,12000.98
+1424,Body Enterprise,Professional Services,14062.36
+1425,Behind Suite,Professional Services,41032.43
+1426,Rate Plus,Software License,29236.77
+1427,Admit Suite,Hardware,25450.95
+1428,Practice Enterprise,Add-on Module,15956.68
+1429,Work Core,Cloud Subscription,36559.86
+1430,Its Suite,Professional Services,14421.54
+1431,Body Plus,Hardware,36866.32
+1432,Model Enterprise,Add-on Module,3551.57
+1433,So Lite,Add-on Module,43233.84
+1434,Society Lite,Cloud Subscription,25003.34
+1435,Price Lite,Support Plan,21953.48
+1436,Within Enterprise,Add-on Module,30570.62
+1437,Off Core,Support Plan,31228.39
+1438,Black Plus,Add-on Module,6645.16
+1439,Property Lite,Cloud Subscription,37823.87
+1440,Life Enterprise,Software License,13832.62
+1441,Most Suite,Cloud Subscription,45252.85
+1442,Party Lite,Cloud Subscription,40901.64
+1443,Sure Pro,Software License,17345.99
+1444,Alone Plus,Software License,40396.58
+1445,Region Suite,Hardware,17851.71
+1446,Figure Core,Add-on Module,5092.34
+1447,Together Core,Hardware,48096.32
+1448,Kitchen Enterprise,Software License,32647.47
+1449,Development Core,Support Plan,22832.17
+1450,Dog Pro,Support Plan,19918.78
+1451,Standard Lite,Cloud Subscription,16269.03
+1452,Look Suite,Professional Services,49073.31
+1453,Ok Lite,Cloud Subscription,6780.63
+1454,I Plus,Cloud Subscription,15774.51
+1455,Building Lite,Professional Services,24300.61
+1456,Deal Enterprise,Add-on Module,23926.08
+1457,Total Lite,Software License,23594.76
+1458,Manager Plus,Support Plan,8830.4
+1459,Capital Suite,Cloud Subscription,7289.38
+1460,Have Pro,Professional Services,12775.64
+1461,Student Suite,Hardware,45730.58
+1462,White Suite,Cloud Subscription,5697.0
+1463,Majority Enterprise,Support Plan,37883.38
+1464,Itself Plus,Software License,37889.54
+1465,Whatever Suite,Cloud Subscription,40498.03
+1466,Tend Suite,Cloud Subscription,44336.44
+1467,Quite Pro,Add-on Module,13188.66
+1468,Score Core,Professional Services,11266.75
+1469,Still Pro,Hardware,23302.01
+1470,Sit Plus,Hardware,13291.2
+1471,Individual Plus,Software License,36728.78
+1472,Account Enterprise,Support Plan,31815.18
+1473,Yard Lite,Software License,43755.64
+1474,House Lite,Cloud Subscription,4182.78
+1475,Station Lite,Cloud Subscription,45758.41
+1476,Door Core,Hardware,14702.76
+1477,Movement Plus,Support Plan,24560.18
+1478,Federal Core,Professional Services,21958.64
+1479,Executive Lite,Support Plan,38027.57
+1480,Until Lite,Cloud Subscription,21045.65
+1481,Reason Pro,Professional Services,47180.48
+1482,Everything Plus,Support Plan,45131.57
+1483,Food Lite,Support Plan,43614.45
+1484,This Suite,Professional Services,3609.35
+1485,Weight Plus,Cloud Subscription,42720.19
+1486,Stuff Core,Support Plan,39092.69
+1487,Where Plus,Professional Services,5220.47
+1488,Join Enterprise,Add-on Module,5415.35
+1489,Report Suite,Add-on Module,5103.13
+1490,Effort Lite,Cloud Subscription,616.06
+1491,Above Enterprise,Professional Services,27454.28
+1492,We Pro,Add-on Module,48671.04
+1493,When Plus,Professional Services,21962.3
+1494,Join Plus,Support Plan,27060.84
+1495,Alone Pro,Cloud Subscription,48400.09
+1496,Administration Enterprise,Add-on Module,12796.35
+1497,Agree Suite,Support Plan,42930.59
+1498,Class Lite,Software License,27342.2
+1499,Street Enterprise,Software License,28495.35
+1500,House Core,Cloud Subscription,17191.53
+1501,Though Lite,Add-on Module,28101.14
+1502,Technology Enterprise,Add-on Module,3703.47
+1503,Natural Suite,Add-on Module,38243.95
+1504,Ten Plus,Professional Services,14270.15
+1505,Site Enterprise,Support Plan,44386.04
+1506,Plan Pro,Add-on Module,18424.14
+1507,Friend Suite,Support Plan,7184.06
+1508,Government Plus,Cloud Subscription,34809.28
+1509,Conference Suite,Add-on Module,8270.68
+1510,Owner Lite,Cloud Subscription,37696.34
+1511,Law Pro,Add-on Module,48407.21
+1512,Effort Lite,Software License,38988.67
+1513,Only Lite,Hardware,1171.34
+1514,Include Core,Cloud Subscription,30014.3
+1515,Data Suite,Add-on Module,34785.76
+1516,Practice Suite,Hardware,41281.64
+1517,Quickly Enterprise,Cloud Subscription,2847.32
+1518,Increase Pro,Professional Services,24031.39
+1519,Them Pro,Add-on Module,26791.78
+1520,Approach Core,Professional Services,8497.79
+1521,Suddenly Pro,Software License,16156.37
+1522,Work Suite,Add-on Module,22039.08
+1523,Participant Core,Software License,41668.82
+1524,Laugh Pro,Hardware,46473.91
+1525,Career Core,Cloud Subscription,31439.72
+1526,Wrong Pro,Support Plan,19777.51
+1527,Provide Pro,Software License,12738.85
+1528,In Enterprise,Support Plan,49107.65
+1529,Should Pro,Support Plan,49151.85
+1530,Consumer Core,Cloud Subscription,46252.6
+1531,Interesting Suite,Hardware,39294.17
+1532,Well Enterprise,Cloud Subscription,16322.69
+1533,Friend Pro,Add-on Module,40859.17
+1534,Nation Pro,Software License,20469.21
+1535,Cold Core,Support Plan,16372.32
+1536,Leave Enterprise,Cloud Subscription,37256.02
+1537,During Pro,Cloud Subscription,4028.71
+1538,Bit Suite,Cloud Subscription,2475.71
+1539,See Lite,Software License,22425.29
+1540,Suddenly Suite,Hardware,22309.66
+1541,Card Pro,Cloud Subscription,44787.43
+1542,Mother Suite,Software License,6351.35
+1543,By Enterprise,Support Plan,6208.03
+1544,Program Pro,Add-on Module,7415.26
+1545,Part Core,Professional Services,1535.33
+1546,Still Enterprise,Software License,3633.0
+1547,Including Suite,Professional Services,33010.5
+1548,Threat Pro,Cloud Subscription,21607.64
+1549,Sound Enterprise,Cloud Subscription,38191.97
+1550,Product Suite,Software License,49630.26
+1551,Whom Pro,Professional Services,32968.78
+1552,Ever Lite,Cloud Subscription,2570.26
+1553,Third Plus,Support Plan,5272.92
+1554,On Core,Hardware,44056.15
+1555,Cold Suite,Hardware,26398.42
+1556,Future Lite,Cloud Subscription,41250.62
+1557,Democrat Suite,Professional Services,42837.79
+1558,Better Plus,Add-on Module,46387.34
+1559,Better Plus,Cloud Subscription,47493.97
+1560,Agree Enterprise,Add-on Module,27763.55
+1561,Leave Core,Add-on Module,17083.96
+1562,Activity Core,Professional Services,48095.15
+1563,Production Suite,Add-on Module,27392.95
+1564,Speech Plus,Support Plan,3259.42
+1565,Personal Core,Professional Services,32156.69
+1566,Claim Pro,Cloud Subscription,29404.85
+1567,Ahead Core,Support Plan,44794.85
+1568,Prepare Suite,Software License,32676.7
+1569,Second Lite,Hardware,17485.17
+1570,Of Lite,Cloud Subscription,48312.97
+1571,Wife Core,Cloud Subscription,40090.89
+1572,Bar Enterprise,Cloud Subscription,31539.36
+1573,Owner Plus,Support Plan,14681.61
+1574,Idea Lite,Software License,18708.34
+1575,Ago Suite,Professional Services,33515.0
+1576,Situation Suite,Software License,3645.44
+1577,Similar Plus,Support Plan,12871.2
+1578,Case Plus,Cloud Subscription,35709.35
+1579,Long Plus,Hardware,24026.92
+1580,Protect Lite,Cloud Subscription,20149.56
+1581,Program Suite,Professional Services,7615.31
+1582,Star Plus,Add-on Module,22120.36
+1583,Help Lite,Hardware,38546.06
+1584,Culture Plus,Cloud Subscription,13237.44
+1585,Education Suite,Hardware,319.66
+1586,Read Suite,Add-on Module,33441.82
+1587,Water Enterprise,Software License,48632.7
+1588,Doctor Core,Support Plan,30360.99
+1589,Finish Pro,Cloud Subscription,6040.1
+1590,Daughter Suite,Professional Services,16070.62
+1591,North Pro,Software License,43388.7
+1592,Though Enterprise,Cloud Subscription,11666.78
+1593,Else Core,Software License,30404.41
+1594,She Lite,Professional Services,20163.43
+1595,State Core,Cloud Subscription,10431.79
+1596,Surface Core,Add-on Module,40679.67
+1597,Stock Lite,Add-on Module,37154.42
+1598,Human Enterprise,Professional Services,33096.47
+1599,Speech Plus,Hardware,11855.01
+1600,Ever Core,Professional Services,4937.96
+1601,Receive Core,Hardware,28829.16
+1602,Approach Enterprise,Cloud Subscription,27706.21
+1603,Face Plus,Hardware,9459.83
+1604,Beautiful Core,Cloud Subscription,2859.52
+1605,Worry Core,Cloud Subscription,4081.39
+1606,Charge Plus,Support Plan,49638.91
+1607,Product Suite,Cloud Subscription,39190.02
+1608,Agency Lite,Hardware,46103.27
+1609,Pull Suite,Support Plan,9792.98
+1610,Particularly Lite,Support Plan,48030.4
+1611,Trial Lite,Cloud Subscription,7175.58
+1612,Board Core,Professional Services,25478.64
+1613,Bring Lite,Professional Services,41493.3
+1614,Machine Pro,Add-on Module,17522.68
+1615,Within Plus,Support Plan,21270.19
+1616,Pick Plus,Cloud Subscription,6452.85
+1617,Can Pro,Professional Services,6189.95
+1618,Both Plus,Cloud Subscription,30997.43
+1619,Change Enterprise,Cloud Subscription,33792.84
+1620,Fear Plus,Support Plan,38877.76
+1621,Everybody Plus,Add-on Module,27856.27
+1622,Want Plus,Support Plan,32305.68
+1623,Couple Lite,Software License,725.19
+1624,Better Suite,Professional Services,8150.43
+1625,Bank Enterprise,Professional Services,49246.49
+1626,Miss Plus,Professional Services,3845.88
+1627,Three Enterprise,Hardware,33955.47
+1628,High Lite,Cloud Subscription,8845.33
+1629,While Enterprise,Support Plan,35850.09
+1630,This Enterprise,Professional Services,35314.22
+1631,Despite Pro,Software License,11748.24
+1632,Include Lite,Professional Services,13518.24
+1633,Blood Plus,Add-on Module,32755.8
+1634,Military Suite,Cloud Subscription,19534.8
+1635,Stuff Suite,Cloud Subscription,9767.67
+1636,Age Suite,Support Plan,36597.4
+1637,Job Suite,Hardware,7749.67
+1638,Back Plus,Support Plan,42789.4
+1639,Message Suite,Professional Services,25757.74
+1640,Process Lite,Add-on Module,5329.75
+1641,Ball Lite,Software License,34718.91
+1642,Develop Enterprise,Support Plan,25982.19
+1643,Right Pro,Hardware,14937.98
+1644,Kind Core,Support Plan,21155.84
+1645,How Suite,Cloud Subscription,14951.97
+1646,Voice Core,Professional Services,13188.14
+1647,Former Core,Professional Services,8222.24
+1648,Property Core,Professional Services,18170.22
+1649,When Enterprise,Professional Services,12586.81
+1650,Little Lite,Professional Services,34187.55
+1651,System Suite,Professional Services,34209.64
+1652,College Plus,Software License,25116.92
+1653,Couple Enterprise,Hardware,38908.33
+1654,Fire Lite,Professional Services,42074.92
+1655,Action Plus,Hardware,29009.33
+1656,Well Lite,Add-on Module,30965.81
+1657,Could Suite,Professional Services,14180.15
+1658,Receive Enterprise,Support Plan,44748.72
+1659,Our Core,Professional Services,1259.09
+1660,Program Enterprise,Cloud Subscription,17462.69
+1661,Policy Enterprise,Software License,36103.93
+1662,Top Suite,Support Plan,4050.47
+1663,Almost Core,Support Plan,9199.32
+1664,Buy Core,Cloud Subscription,29484.82
+1665,Gun Pro,Professional Services,28021.68
+1666,Hand Pro,Software License,36959.47
+1667,Member Lite,Support Plan,40640.0
+1668,Positive Plus,Software License,6472.55
+1669,Plan Pro,Support Plan,968.13
+1670,Office Suite,Professional Services,34497.44
+1671,Accept Enterprise,Add-on Module,15104.52
+1672,Cold Core,Support Plan,31317.9
+1673,Nearly Enterprise,Add-on Module,7569.7
+1674,Site Suite,Support Plan,23478.55
+1675,Environmental Enterprise,Hardware,25246.02
+1676,With Core,Professional Services,29274.64
+1677,Campaign Pro,Cloud Subscription,25682.84
+1678,Data Plus,Add-on Module,24809.75
+1679,Police Core,Cloud Subscription,16670.07
+1680,All Core,Professional Services,3605.45
+1681,North Core,Cloud Subscription,4521.53
+1682,Agency Lite,Professional Services,21717.22
+1683,National Lite,Cloud Subscription,17821.87
+1684,Music Core,Add-on Module,25830.93
+1685,Sort Suite,Hardware,15276.67
+1686,Claim Core,Cloud Subscription,34411.11
+1687,Direction Lite,Add-on Module,43204.54
+1688,Trial Lite,Support Plan,14978.22
+1689,His Enterprise,Professional Services,9689.55
+1690,Building Suite,Software License,5853.22
+1691,Way Pro,Software License,30831.89
+1692,Director Enterprise,Professional Services,22220.61
+1693,All Lite,Hardware,9441.39
+1694,Generation Enterprise,Cloud Subscription,32674.18
+1695,Certainly Enterprise,Hardware,7466.73
+1696,Discussion Enterprise,Software License,27737.32
+1697,Because Suite,Add-on Module,26381.06
+1698,Should Pro,Professional Services,36724.68
+1699,Role Pro,Professional Services,2802.73
+1700,Yard Core,Hardware,44399.25
+1701,Card Lite,Add-on Module,35164.44
+1702,Executive Plus,Hardware,10845.49
+1703,Eye Suite,Cloud Subscription,9211.1
+1704,Meet Pro,Support Plan,21611.43
+1705,Decision Lite,Add-on Module,40887.39
+1706,Best Lite,Support Plan,42155.35
+1707,Happen Suite,Cloud Subscription,26046.78
+1708,Section Suite,Support Plan,43047.5
+1709,Ok Lite,Software License,321.91
+1710,Reach Core,Support Plan,1806.97
+1711,Financial Pro,Cloud Subscription,45595.49
+1712,Manage Plus,Support Plan,38777.83
+1713,Skill Plus,Professional Services,22562.77
+1714,Table Plus,Hardware,37692.83
+1715,Mission Enterprise,Software License,47784.19
+1716,Least Pro,Professional Services,38615.87
+1717,Music Enterprise,Professional Services,42126.45
+1718,Your Enterprise,Cloud Subscription,38042.3
+1719,Instead Lite,Hardware,8452.14
+1720,Win Enterprise,Hardware,41687.03
+1721,Data Core,Add-on Module,9795.69
+1722,Enough Core,Software License,44635.94
+1723,Consumer Suite,Cloud Subscription,22959.56
+1724,Decade Suite,Software License,33864.99
+1725,Right Pro,Add-on Module,24887.18
+1726,Throughout Pro,Support Plan,4744.85
+1727,Very Core,Professional Services,14571.58
+1728,Series Suite,Software License,49187.41
+1729,Fast Lite,Professional Services,48037.7
+1730,Increase Suite,Cloud Subscription,16058.32
+1731,Board Enterprise,Support Plan,49815.03
+1732,Past Plus,Cloud Subscription,42285.28
+1733,Student Lite,Support Plan,30567.43
+1734,Space Plus,Support Plan,2054.22
+1735,People Plus,Professional Services,45077.27
+1736,Forget Core,Cloud Subscription,27893.59
+1737,Company Plus,Cloud Subscription,43430.38
+1738,Study Plus,Software License,41729.73
+1739,Describe Enterprise,Cloud Subscription,41658.66
+1740,Seven Pro,Software License,34923.78
+1741,Method Core,Hardware,14606.19
+1742,Lead Suite,Hardware,16841.2
+1743,Use Enterprise,Hardware,15458.04
+1744,Like Plus,Add-on Module,1051.3
+1745,Land Suite,Cloud Subscription,29149.32
+1746,Pick Enterprise,Add-on Module,34956.74
+1747,Small Lite,Cloud Subscription,42700.61
+1748,Expert Lite,Software License,7051.26
+1749,Team Core,Add-on Module,27231.95
+1750,From Plus,Add-on Module,450.01
+1751,Prevent Core,Add-on Module,4799.93
+1752,Box Lite,Support Plan,2757.88
+1753,Policy Enterprise,Software License,36287.63
+1754,Identify Suite,Hardware,4098.93
+1755,Laugh Pro,Software License,35836.83
+1756,Decision Plus,Support Plan,12518.75
+1757,Our Core,Cloud Subscription,43891.76
+1758,Head Suite,Software License,40666.84
+1759,Hour Suite,Add-on Module,47893.62
+1760,Water Pro,Hardware,44193.91
+1761,Project Enterprise,Hardware,46669.8
+1762,Ten Pro,Cloud Subscription,42944.18
+1763,Attack Pro,Software License,34684.43
+1764,Listen Enterprise,Support Plan,8554.44
+1765,Computer Enterprise,Cloud Subscription,13621.79
+1766,Visit Enterprise,Software License,10675.71
+1767,Along Suite,Professional Services,30199.11
+1768,Much Suite,Hardware,25205.82
+1769,Environment Plus,Support Plan,43360.65
+1770,Peace Lite,Add-on Module,47636.01
+1771,It Plus,Support Plan,20272.75
+1772,Finally Pro,Add-on Module,25342.21
+1773,Pm Pro,Support Plan,48577.24
+1774,The Plus,Hardware,13848.14
+1775,Understand Core,Add-on Module,39629.92
+1776,Quite Lite,Software License,11300.73
+1777,Nice Pro,Add-on Module,34088.93
+1778,He Core,Cloud Subscription,12718.1
+1779,Information Core,Software License,44192.48
+1780,All Lite,Cloud Subscription,28095.82
+1781,Building Enterprise,Support Plan,9337.39
+1782,Couple Suite,Software License,11257.24
+1783,Table Plus,Support Plan,24717.77
+1784,Future Lite,Professional Services,48082.02
+1785,Laugh Suite,Support Plan,38493.63
+1786,Street Plus,Support Plan,24441.07
+1787,Cultural Suite,Cloud Subscription,16919.07
+1788,Help Plus,Add-on Module,27485.96
+1789,Else Suite,Professional Services,37430.62
+1790,Baby Enterprise,Support Plan,39207.23
+1791,Dinner Core,Support Plan,16264.21
+1792,Realize Plus,Professional Services,36071.91
+1793,Hot Core,Professional Services,32906.55
+1794,Hot Plus,Software License,47957.66
+1795,Check Lite,Cloud Subscription,46557.96
+1796,State Lite,Professional Services,39479.5
+1797,Former Plus,Professional Services,36183.56
+1798,Can Enterprise,Hardware,13738.38
+1799,Act Suite,Add-on Module,42305.96
+1800,From Plus,Professional Services,21403.91
+1801,Rise Suite,Cloud Subscription,13648.42
+1802,Activity Enterprise,Add-on Module,19238.83
+1803,Series Pro,Add-on Module,41804.98
+1804,Get Core,Support Plan,7474.23
+1805,Different Plus,Support Plan,22835.13
+1806,Make Lite,Support Plan,24643.26
+1807,Out Enterprise,Support Plan,1879.65
+1808,Stuff Suite,Hardware,9827.51
+1809,Fund Plus,Professional Services,41345.78
+1810,Way Suite,Support Plan,41546.83
+1811,Early Pro,Software License,14656.13
+1812,Or Plus,Support Plan,43751.12
+1813,Attorney Core,Professional Services,38600.56
+1814,Image Plus,Support Plan,20924.48
+1815,Federal Core,Hardware,37432.9
+1816,Play Suite,Cloud Subscription,48068.66
+1817,Difference Plus,Cloud Subscription,22975.54
+1818,New Enterprise,Professional Services,11959.44
+1819,Director Lite,Cloud Subscription,47093.73
+1820,Board Enterprise,Cloud Subscription,30207.03
+1821,Option Pro,Software License,5307.99
+1822,Fall Enterprise,Professional Services,28655.51
+1823,Sense Pro,Professional Services,25054.02
+1824,Political Suite,Cloud Subscription,42786.67
+1825,Young Core,Cloud Subscription,26558.22
+1826,Use Lite,Cloud Subscription,12798.86
+1827,Surface Suite,Add-on Module,33798.42
+1828,Trade Core,Hardware,27151.64
+1829,Remain Core,Support Plan,11690.58
+1830,Bad Pro,Hardware,28702.71
+1831,Painting Enterprise,Professional Services,41085.7
+1832,Walk Enterprise,Software License,1477.12
+1833,Race Lite,Support Plan,31561.01
+1834,Know Lite,Software License,17511.78
+1835,Rest Pro,Add-on Module,14668.94
+1836,Something Pro,Professional Services,19659.76
+1837,Learn Suite,Add-on Module,17134.03
+1838,Friend Pro,Professional Services,41620.34
+1839,Tax Enterprise,Software License,13776.15
+1840,Front Pro,Software License,36670.99
+1841,Decade Pro,Software License,4748.29
+1842,Debate Core,Professional Services,47572.25
+1843,Appear Pro,Cloud Subscription,31134.72
+1844,Suffer Lite,Software License,35350.59
+1845,Minute Suite,Add-on Module,14937.06
+1846,Moment Pro,Support Plan,20634.22
+1847,Any Lite,Professional Services,11227.73
+1848,Face Plus,Add-on Module,46630.18
+1849,Know Plus,Hardware,24430.82
+1850,Call Core,Hardware,31540.88
+1851,Capital Core,Support Plan,36726.89
+1852,Local Plus,Cloud Subscription,18586.75
+1853,Congress Lite,Software License,36019.08
+1854,Plant Core,Professional Services,33815.82
+1855,General Lite,Add-on Module,35297.68
+1856,Perhaps Lite,Software License,24487.03
+1857,Identify Core,Add-on Module,19177.72
+1858,Economic Enterprise,Professional Services,11143.01
+1859,Part Lite,Hardware,41240.09
+1860,Against Enterprise,Software License,30437.08
+1861,Feel Pro,Support Plan,22245.39
+1862,Affect Plus,Cloud Subscription,47202.6
+1863,Quickly Suite,Support Plan,2439.55
+1864,Step Plus,Cloud Subscription,42516.09
+1865,Total Plus,Add-on Module,49879.25
+1866,Parent Lite,Software License,44352.76
+1867,Above Enterprise,Software License,40531.31
+1868,Which Enterprise,Cloud Subscription,18746.58
+1869,Main Core,Hardware,11604.14
+1870,Feel Suite,Professional Services,36755.78
+1871,Catch Enterprise,Support Plan,15263.54
+1872,Thought Core,Add-on Module,8843.18
+1873,Interesting Suite,Support Plan,39336.97
+1874,Although Enterprise,Support Plan,15661.56
+1875,War Plus,Add-on Module,45726.36
+1876,None Plus,Add-on Module,42039.6
+1877,Why Suite,Software License,42389.63
+1878,News Suite,Support Plan,38589.91
+1879,Among Enterprise,Professional Services,44050.03
+1880,Green Enterprise,Professional Services,40297.06
+1881,Quite Suite,Cloud Subscription,30145.44
+1882,Admit Lite,Add-on Module,14826.34
+1883,Available Suite,Software License,44416.05
+1884,Many Core,Professional Services,42038.15
+1885,Beyond Core,Hardware,23670.32
+1886,Themselves Core,Software License,2001.98
+1887,Suffer Plus,Software License,31945.26
+1888,Just Plus,Professional Services,2577.31
+1889,Several Core,Hardware,46317.68
+1890,Fish Core,Cloud Subscription,48083.48
+1891,Face Lite,Professional Services,9515.03
+1892,Free Suite,Hardware,33835.65
+1893,Some Plus,Software License,4658.84
+1894,Half Core,Hardware,36489.37
+1895,Instead Lite,Software License,17397.02
+1896,Base Pro,Professional Services,34068.45
+1897,Only Enterprise,Add-on Module,18675.18
+1898,Stage Core,Professional Services,7321.1
+1899,Form Plus,Support Plan,20335.19
+1900,Minute Core,Support Plan,5678.04
+1901,Position Pro,Support Plan,28865.32
+1902,Anyone Suite,Professional Services,2095.53
+1903,Increase Plus,Cloud Subscription,26389.62
+1904,Fire Suite,Professional Services,44324.11
+1905,Same Enterprise,Add-on Module,41901.77
+1906,Look Lite,Hardware,44144.95
+1907,Minute Suite,Professional Services,46106.34
+1908,Time Core,Professional Services,5271.17
+1909,Put Lite,Software License,6480.92
+1910,Whether Pro,Software License,27872.49
+1911,Campaign Suite,Software License,44703.93
+1912,Threat Pro,Professional Services,48718.76
+1913,Hour Lite,Cloud Subscription,2360.78
+1914,Writer Plus,Hardware,17820.92
+1915,Prepare Plus,Hardware,10684.07
+1916,Board Core,Add-on Module,37810.49
+1917,Air Core,Cloud Subscription,32027.68
+1918,Door Core,Cloud Subscription,6038.41
+1919,Anyone Pro,Hardware,24201.93
+1920,That Enterprise,Support Plan,34287.75
+1921,Action Enterprise,Software License,38961.32
+1922,Chair Enterprise,Software License,1051.63
+1923,Book Plus,Hardware,44528.96
+1924,Future Plus,Cloud Subscription,28485.61
+1925,Training Enterprise,Add-on Module,40604.86
+1926,Rise Lite,Support Plan,40406.5
+1927,Shake Core,Hardware,9533.14
+1928,Least Suite,Software License,5553.1
+1929,Draw Lite,Professional Services,36078.3
+1930,Conference Lite,Cloud Subscription,7863.52
+1931,Behavior Enterprise,Professional Services,42504.38
+1932,Cut Suite,Add-on Module,36323.16
+1933,Shake Enterprise,Hardware,42099.18
+1934,Week Suite,Software License,14985.68
+1935,Task Core,Support Plan,15864.07
+1936,Home Lite,Professional Services,33577.52
+1937,Team Plus,Support Plan,1620.73
+1938,Weight Enterprise,Add-on Module,36338.51
+1939,Note Enterprise,Software License,41797.36
+1940,Accept Lite,Professional Services,20787.42
+1941,World Lite,Add-on Module,38255.7
+1942,Rise Core,Support Plan,8771.82
+1943,Trip Pro,Support Plan,16146.91
+1944,Area Enterprise,Professional Services,48716.53
+1945,Event Suite,Software License,49317.09
+1946,Use Core,Support Plan,25654.62
+1947,Still Lite,Hardware,46716.78
+1948,Animal Pro,Add-on Module,26160.4
+1949,Bring Enterprise,Professional Services,14614.83
+1950,Anything Enterprise,Cloud Subscription,13381.62
+1951,Your Lite,Cloud Subscription,46478.81
+1952,Fly Lite,Software License,8663.7
+1953,Bad Lite,Hardware,29002.64
+1954,Everything Plus,Support Plan,27798.48
+1955,Girl Pro,Cloud Subscription,36994.1
+1956,Rise Core,Software License,24987.18
+1957,Position Lite,Add-on Module,13650.67
+1958,Strong Suite,Hardware,8511.36
+1959,Task Enterprise,Hardware,31059.9
+1960,Hundred Core,Software License,35963.59
+1961,Expect Plus,Software License,28497.59
+1962,Say Lite,Support Plan,36930.65
+1963,Conference Enterprise,Software License,7118.98
+1964,Wish Pro,Support Plan,44129.39
+1965,Certainly Lite,Support Plan,29140.66
+1966,Past Lite,Professional Services,6385.85
+1967,Magazine Lite,Hardware,23123.16
+1968,Call Lite,Add-on Module,42247.35
+1969,Card Core,Hardware,44883.23
+1970,From Suite,Hardware,13269.24
+1971,Training Lite,Professional Services,35577.73
+1972,Choose Lite,Support Plan,5044.26
+1973,Some Plus,Support Plan,1725.62
+1974,Pattern Core,Software License,28041.93
+1975,View Enterprise,Professional Services,34756.64
+1976,To Suite,Software License,39799.55
+1977,Want Enterprise,Professional Services,17043.8
+1978,Job Enterprise,Software License,375.94
+1979,Public Pro,Cloud Subscription,24001.99
+1980,Likely Pro,Hardware,841.88
+1981,Relate Enterprise,Hardware,4644.63
+1982,Can Plus,Add-on Module,16368.12
+1983,Nearly Pro,Support Plan,21886.74
+1984,News Pro,Add-on Module,14009.5
+1985,Effect Pro,Cloud Subscription,29114.17
+1986,Participant Pro,Add-on Module,2814.72
+1987,Mean Suite,Hardware,7271.76
+1988,Recently Enterprise,Support Plan,34778.16
+1989,Might Suite,Cloud Subscription,7149.94
+1990,Fast Core,Hardware,32006.77
+1991,Fund Core,Software License,2781.5
+1992,Spring Lite,Professional Services,20398.74
+1993,Side Core,Cloud Subscription,8911.6
+1994,Meeting Suite,Support Plan,5526.33
+1995,Draw Lite,Add-on Module,28373.29
+1996,Best Enterprise,Add-on Module,46420.37
+1997,Everything Core,Cloud Subscription,2786.61
+1998,Space Pro,Support Plan,21106.63
+1999,Fine Core,Cloud Subscription,35391.4
+2000,Seek Plus,Support Plan,23161.26
+2001,Beautiful Pro,Add-on Module,40334.47
+2002,Head Pro,Hardware,9023.28
+2003,Open Pro,Software License,47981.73
+2004,Thing Lite,Hardware,19288.87
+2005,Turn Core,Software License,17111.4
+2006,Eight Pro,Add-on Module,43736.56
+2007,Receive Lite,Hardware,28215.16
+2008,Radio Plus,Hardware,25846.39
+2009,Simple Suite,Cloud Subscription,36362.55
+2010,Total Plus,Professional Services,29012.72
+2011,Describe Enterprise,Add-on Module,8167.66
+2012,Run Lite,Support Plan,33726.17
+2013,Bank Lite,Add-on Module,6716.77
+2014,Bad Pro,Support Plan,40302.59
+2015,Miss Plus,Support Plan,49487.34
+2016,As Core,Software License,18900.51
+2017,Difference Enterprise,Support Plan,22265.56
+2018,Add Lite,Support Plan,2369.36
+2019,Religious Plus,Cloud Subscription,735.97
+2020,Direction Pro,Hardware,46074.9
+2021,Management Core,Add-on Module,6474.77
+2022,Tell Pro,Add-on Module,22316.65
+2023,Image Enterprise,Support Plan,40776.96
+2024,Cup Plus,Professional Services,44471.47
+2025,Method Pro,Add-on Module,25993.91
+2026,Book Enterprise,Support Plan,28273.37
+2027,Grow Lite,Software License,33500.71
+2028,Detail Core,Software License,48071.05
+2029,Teach Plus,Software License,30153.36
+2030,Performance Plus,Support Plan,27995.79
+2031,Sort Enterprise,Cloud Subscription,775.98
+2032,News Plus,Professional Services,4093.44
+2033,My Core,Support Plan,28879.72
+2034,Town Core,Cloud Subscription,46815.21
+2035,Form Plus,Cloud Subscription,43341.23
+2036,Soon Pro,Add-on Module,49129.82
+2037,You Pro,Support Plan,26415.31
+2038,Forget Core,Support Plan,39407.15
+2039,Section Pro,Cloud Subscription,42028.0
+2040,Long Enterprise,Cloud Subscription,32419.18
+2041,Reality Suite,Cloud Subscription,16970.56
+2042,Class Lite,Add-on Module,23525.42
+2043,Thus Plus,Support Plan,42902.96
+2044,Mother Enterprise,Cloud Subscription,14962.47
+2045,Born Core,Software License,46190.97
+2046,Who Suite,Support Plan,11528.83
+2047,Case Lite,Add-on Module,37488.34
+2048,Discuss Core,Software License,31546.43
+2049,Whom Suite,Hardware,37492.49
+2050,Himself Enterprise,Support Plan,21895.51
+2051,Image Suite,Hardware,46635.42
+2052,Local Pro,Cloud Subscription,31641.99
+2053,Trip Enterprise,Add-on Module,14450.38
+2054,Pressure Plus,Cloud Subscription,31940.83
+2055,Must Core,Add-on Module,14376.45
+2056,Degree Pro,Professional Services,14716.94
+2057,State Plus,Cloud Subscription,20009.95
+2058,Instead Suite,Hardware,42628.9
+2059,Cup Pro,Add-on Module,25039.88
+2060,Authority Plus,Cloud Subscription,33961.1
+2061,Fall Enterprise,Support Plan,19628.79
+2062,Land Suite,Add-on Module,13217.09
+2063,Community Plus,Add-on Module,47734.28
+2064,Rich Suite,Cloud Subscription,30198.88
+2065,Food Plus,Professional Services,46700.87
+2066,True Core,Cloud Subscription,10210.48
+2067,Participant Enterprise,Hardware,7387.36
+2068,Raise Pro,Hardware,42798.35
+2069,Blue Plus,Add-on Module,34061.81
+2070,Choice Suite,Add-on Module,9369.6
+2071,Main Enterprise,Cloud Subscription,13504.52
+2072,Under Pro,Hardware,40043.16
+2073,Both Suite,Hardware,22720.74
+2074,Size Enterprise,Professional Services,33543.5
+2075,Break Suite,Support Plan,15951.68
+2076,Effect Lite,Professional Services,19092.44
+2077,Admit Lite,Software License,49536.09
+2078,Wall Enterprise,Professional Services,12418.47
+2079,Magazine Pro,Cloud Subscription,25347.5
+2080,Culture Pro,Support Plan,42227.9
+2081,Example Suite,Cloud Subscription,11999.2
+2082,Air Enterprise,Software License,20789.93
+2083,Maybe Plus,Support Plan,30773.81
+2084,Recently Lite,Add-on Module,24085.35
+2085,Nice Pro,Hardware,23002.14
+2086,Local Lite,Professional Services,18157.36
+2087,He Plus,Cloud Subscription,29352.98
+2088,Evidence Plus,Software License,31237.42
+2089,By Core,Hardware,32681.81
+2090,Within Suite,Professional Services,3564.89
+2091,Oil Suite,Hardware,31570.16
+2092,Become Suite,Professional Services,47664.2
+2093,Health Enterprise,Add-on Module,27072.26
+2094,Lawyer Pro,Support Plan,35777.59
+2095,Difference Pro,Hardware,27858.78
+2096,City Core,Hardware,42744.29
+2097,Industry Lite,Hardware,46482.68
+2098,Morning Core,Support Plan,9251.78
+2099,Lawyer Core,Software License,21871.16
+2100,Movie Plus,Professional Services,19649.49
+2101,Goal Suite,Add-on Module,20290.5
+2102,Argue Enterprise,Hardware,6319.93
+2103,Let Pro,Support Plan,40690.11
+2104,Explain Enterprise,Software License,1836.52
+2105,Hope Suite,Professional Services,26434.92
+2106,Billion Suite,Support Plan,33110.83
+2107,Appear Pro,Add-on Module,10413.1
+2108,Range Plus,Add-on Module,45297.22
+2109,Idea Lite,Professional Services,41935.53
+2110,Sign Core,Hardware,23580.63
+2111,Without Plus,Add-on Module,20586.89
+2112,Knowledge Suite,Software License,11866.57
+2113,Daughter Suite,Support Plan,36513.16
+2114,Financial Plus,Software License,6630.6
+2115,Current Core,Hardware,34027.88
+2116,Interesting Core,Software License,42130.73
+2117,Control Suite,Software License,11462.16
+2118,Phone Lite,Cloud Subscription,43328.05
+2119,Fact Core,Software License,1714.49
+2120,Next Core,Professional Services,45643.73
+2121,Political Pro,Support Plan,5962.19
+2122,Minute Lite,Cloud Subscription,32305.67
+2123,Natural Pro,Support Plan,12541.62
+2124,Lead Enterprise,Support Plan,41835.79
+2125,Boy Plus,Hardware,25639.4
+2126,Responsibility Suite,Hardware,6805.3
+2127,Apply Core,Cloud Subscription,28571.03
+2128,Race Enterprise,Add-on Module,20423.74
+2129,Energy Pro,Hardware,33089.32
+2130,Bring Core,Hardware,44101.07
+2131,Discuss Plus,Hardware,20498.99
+2132,Building Pro,Support Plan,14529.54
+2133,Argue Lite,Cloud Subscription,775.03
+2134,Want Lite,Support Plan,28763.21
+2135,Also Suite,Professional Services,20143.62
+2136,Parent Core,Support Plan,18763.73
+2137,Exactly Enterprise,Professional Services,9187.62
+2138,Edge Suite,Software License,21531.26
+2139,Attorney Core,Software License,49222.88
+2140,Night Core,Professional Services,14922.82
+2141,Blood Core,Professional Services,30005.24
+2142,Fact Core,Support Plan,38835.52
+2143,Draw Core,Professional Services,37470.43
+2144,Us Suite,Cloud Subscription,16472.28
+2145,Pressure Plus,Software License,30562.46
+2146,Scene Plus,Software License,43569.67
+2147,Sense Suite,Add-on Module,821.6
+2148,Interview Lite,Professional Services,21814.93
+2149,Including Plus,Hardware,11252.46
+2150,Increase Enterprise,Hardware,19462.18
+2151,Blood Enterprise,Professional Services,20828.68
+2152,Discussion Lite,Cloud Subscription,37346.21
+2153,Similar Suite,Hardware,4736.4
+2154,Than Enterprise,Add-on Module,25653.57
+2155,Until Suite,Professional Services,28231.53
+2156,Role Enterprise,Cloud Subscription,24733.17
+2157,Executive Pro,Cloud Subscription,36607.07
+2158,Mission Lite,Support Plan,19220.37
+2159,Describe Lite,Cloud Subscription,47251.1
+2160,Congress Lite,Hardware,24116.08
+2161,Stock Suite,Hardware,28582.13
+2162,Democrat Core,Professional Services,41285.26
+2163,Hand Lite,Professional Services,13798.04
+2164,Public Enterprise,Cloud Subscription,3806.34
+2165,Field Pro,Add-on Module,35403.81
+2166,Season Suite,Software License,24176.44
+2167,Pick Enterprise,Support Plan,44830.39
+2168,Field Core,Software License,49134.87
+2169,Similar Enterprise,Cloud Subscription,19985.51
+2170,About Lite,Cloud Subscription,20801.18
+2171,Between Pro,Software License,20427.73
+2172,Crime Lite,Support Plan,16261.48
+2173,Most Plus,Software License,39095.27
+2174,Whatever Lite,Professional Services,37961.84
+2175,School Plus,Hardware,23958.31
+2176,Prevent Lite,Add-on Module,2280.83
+2177,Me Pro,Professional Services,15512.49
+2178,Single Pro,Hardware,14650.54
+2179,Focus Suite,Add-on Module,40563.81
+2180,Tonight Lite,Add-on Module,4424.4
+2181,What Plus,Add-on Module,40293.49
+2182,Rise Suite,Cloud Subscription,33475.72
+2183,Edge Enterprise,Add-on Module,36635.45
+2184,Conference Pro,Support Plan,21639.05
+2185,Forward Suite,Software License,34002.3
+2186,Responsibility Pro,Support Plan,30471.0
+2187,Available Suite,Software License,38460.56
+2188,Compare Enterprise,Professional Services,22366.15
+2189,Culture Enterprise,Professional Services,23667.64
+2190,Go Core,Software License,32196.63
+2191,We Plus,Support Plan,5448.47
+2192,Lose Core,Software License,21840.41
+2193,Change Plus,Add-on Module,48598.94
+2194,Add Enterprise,Cloud Subscription,1925.74
+2195,Reflect Suite,Professional Services,15834.44
+2196,Matter Lite,Cloud Subscription,15739.79
+2197,Later Pro,Add-on Module,31691.53
+2198,Good Enterprise,Add-on Module,5334.73
+2199,Against Enterprise,Professional Services,31445.77
+2200,Cost Suite,Professional Services,4797.26
+2201,Everything Lite,Add-on Module,4792.93
+2202,Upon Enterprise,Hardware,36422.76
+2203,Ball Enterprise,Cloud Subscription,16240.55
+2204,Conference Suite,Cloud Subscription,48872.28
+2205,Respond Enterprise,Hardware,1915.78
+2206,Soon Plus,Support Plan,22283.08
+2207,Tonight Plus,Cloud Subscription,5701.14
+2208,Act Lite,Software License,17601.38
+2209,Phone Plus,Add-on Module,49911.21
+2210,He Plus,Add-on Module,44447.68
+2211,Matter Enterprise,Hardware,2463.8
+2212,Past Pro,Cloud Subscription,28184.63
+2213,Ability Plus,Support Plan,32408.72
+2214,Middle Lite,Cloud Subscription,10516.25
+2215,Tv Plus,Add-on Module,7298.02
+2216,End Enterprise,Professional Services,45223.84
+2217,Marriage Core,Software License,48442.38
+2218,Break Enterprise,Hardware,49595.05
+2219,Answer Suite,Professional Services,39498.6
+2220,Tell Lite,Support Plan,33191.93
+2221,Adult Plus,Professional Services,17319.23
+2222,Our Suite,Professional Services,8611.35
+2223,Response Plus,Support Plan,3995.08
+2224,Fill Core,Professional Services,34680.21
+2225,Thing Pro,Hardware,39246.93
+2226,Drive Core,Add-on Module,41331.36
+2227,Network Enterprise,Cloud Subscription,45692.56
+2228,Most Enterprise,Professional Services,44002.48
+2229,Computer Suite,Hardware,49987.08
+2230,Someone Suite,Cloud Subscription,12241.0
+2231,Choice Enterprise,Cloud Subscription,38177.22
+2232,Stage Lite,Professional Services,29343.65
+2233,Between Enterprise,Hardware,13099.19
+2234,Black Enterprise,Add-on Module,49096.17
+2235,Fly Plus,Professional Services,44900.01
+2236,Summer Core,Support Plan,6469.36
+2237,Simply Lite,Cloud Subscription,1356.61
+2238,Government Plus,Professional Services,34432.12
+2239,Local Pro,Cloud Subscription,30226.32
+2240,Military Lite,Hardware,46793.99
+2241,Simple Plus,Software License,11738.56
+2242,Have Enterprise,Professional Services,4265.18
+2243,Offer Plus,Add-on Module,12997.81
+2244,Even Suite,Professional Services,995.44
+2245,Record Lite,Cloud Subscription,1842.84
+2246,Message Enterprise,Hardware,45747.15
+2247,Environment Core,Support Plan,17633.23
+2248,His Plus,Add-on Module,20569.91
+2249,Low Enterprise,Hardware,967.66
+2250,Add Lite,Professional Services,13562.56
+2251,Their Suite,Support Plan,40246.06
+2252,Head Suite,Hardware,30793.77
+2253,Fish Lite,Software License,37701.34
+2254,See Lite,Add-on Module,22388.33
+2255,Goal Plus,Cloud Subscription,15520.97
+2256,Vote Enterprise,Hardware,24166.36
+2257,National Core,Hardware,16187.4
+2258,Stage Lite,Software License,41956.61
+2259,Record Lite,Professional Services,14918.8
+2260,Tough Pro,Add-on Module,33005.19
+2261,Treatment Suite,Add-on Module,6892.26
+2262,Week Pro,Cloud Subscription,34358.98
+2263,Threat Core,Hardware,45669.32
+2264,Pick Lite,Support Plan,30448.73
+2265,Member Plus,Hardware,28014.78
+2266,Budget Suite,Cloud Subscription,48057.86
+2267,Expect Pro,Hardware,31388.46
+2268,Rich Suite,Software License,13014.54
+2269,Natural Pro,Hardware,14654.93
+2270,Should Lite,Hardware,35280.07
+2271,Push Enterprise,Support Plan,36785.06
+2272,Against Enterprise,Software License,15209.64
+2273,Choose Plus,Software License,17299.93
+2274,Item Core,Hardware,49553.27
+2275,Total Suite,Add-on Module,5142.53
+2276,Discussion Core,Support Plan,20262.02
+2277,Receive Pro,Hardware,3169.25
+2278,Change Lite,Hardware,41062.86
+2279,Heavy Plus,Cloud Subscription,4662.67
+2280,Modern Enterprise,Cloud Subscription,33716.67
+2281,Allow Enterprise,Add-on Module,2871.35
+2282,Election Plus,Support Plan,33659.11
+2283,Participant Suite,Professional Services,42159.7
+2284,Sit Core,Cloud Subscription,19971.14
+2285,Safe Pro,Professional Services,26130.22
+2286,Lawyer Core,Software License,20107.01
+2287,Here Enterprise,Cloud Subscription,15059.41
+2288,Design Plus,Cloud Subscription,40173.01
+2289,Size Enterprise,Support Plan,13636.53
+2290,Behind Lite,Add-on Module,36161.02
+2291,Daughter Enterprise,Professional Services,10349.54
+2292,Wife Pro,Cloud Subscription,12530.2
+2293,Huge Suite,Cloud Subscription,16856.24
+2294,Purpose Suite,Support Plan,29478.36
+2295,Box Lite,Support Plan,22748.39
+2296,Eye Pro,Add-on Module,37269.98
+2297,Understand Plus,Professional Services,10717.69
+2298,Produce Core,Software License,583.08
+2299,Respond Plus,Add-on Module,38839.05
+2300,Off Core,Software License,41091.38
+2301,Way Suite,Hardware,3021.03
+2302,While Enterprise,Cloud Subscription,30564.83
+2303,Listen Enterprise,Professional Services,18941.43
+2304,Under Lite,Add-on Module,39705.09
+2305,New Plus,Cloud Subscription,43727.01
+2306,Continue Pro,Professional Services,42557.64
+2307,Evidence Core,Professional Services,38871.35
+2308,Whether Enterprise,Professional Services,13489.16
+2309,Respond Lite,Cloud Subscription,40603.89
+2310,Happy Plus,Add-on Module,26697.25
+2311,View Pro,Support Plan,2685.19
+2312,Glass Suite,Cloud Subscription,22874.1
+2313,Include Pro,Professional Services,47110.79
+2314,Perform Suite,Add-on Module,44398.57
+2315,Key Plus,Hardware,5158.1
+2316,You Pro,Software License,37219.13
+2317,Fact Lite,Professional Services,40299.35
+2318,For Plus,Hardware,13605.84
+2319,Cut Suite,Support Plan,23606.85
+2320,Analysis Lite,Professional Services,35563.85
+2321,Particularly Enterprise,Hardware,21980.12
+2322,Nature Lite,Professional Services,5684.21
+2323,Science Enterprise,Cloud Subscription,35308.83
+2324,Gun Lite,Add-on Module,45586.35
+2325,They Suite,Hardware,32641.61
+2326,Position Core,Add-on Module,38701.35
+2327,Can Core,Cloud Subscription,17950.21
+2328,Lead Enterprise,Cloud Subscription,9200.75
+2329,Stuff Enterprise,Add-on Module,32156.54
+2330,Look Pro,Hardware,16422.17
+2331,Our Lite,Add-on Module,43010.67
+2332,Structure Lite,Add-on Module,6175.27
+2333,Structure Lite,Software License,21701.51
+2334,Hand Lite,Hardware,19866.54
+2335,Fight Pro,Software License,46905.79
+2336,Break Enterprise,Professional Services,7699.08
+2337,Across Core,Add-on Module,541.85
+2338,Moment Pro,Professional Services,11942.36
+2339,Within Suite,Hardware,41022.83
+2340,Reveal Pro,Add-on Module,10505.62
+2341,Choice Pro,Professional Services,12081.86
+2342,Man Pro,Support Plan,6538.45
+2343,Responsibility Plus,Cloud Subscription,35786.04
+2344,Citizen Suite,Add-on Module,3505.25
+2345,Necessary Enterprise,Cloud Subscription,16593.85
+2346,Figure Core,Software License,14160.81
+2347,Price Core,Professional Services,27780.23
+2348,Open Enterprise,Software License,36534.29
+2349,Red Plus,Add-on Module,26667.18
+2350,Commercial Core,Cloud Subscription,46554.75
+2351,Floor Pro,Cloud Subscription,47574.56
+2352,Message Core,Professional Services,18105.19
+2353,Fight Suite,Add-on Module,38895.13
+2354,Attention Suite,Support Plan,36953.13
+2355,Successful Enterprise,Support Plan,44653.58
+2356,Financial Plus,Professional Services,22424.78
+2357,Administration Lite,Add-on Module,26547.14
+2358,Long Lite,Professional Services,20817.93
+2359,Amount Plus,Add-on Module,42526.33
+2360,Director Core,Software License,11523.63
+2361,Fear Plus,Professional Services,12023.47
+2362,That Plus,Add-on Module,18661.62
+2363,Personal Core,Support Plan,11555.62
+2364,Candidate Suite,Add-on Module,28072.29
+2365,Argue Pro,Add-on Module,6767.78
+2366,Middle Enterprise,Professional Services,16043.3
+2367,Follow Lite,Software License,45676.56
+2368,Accept Suite,Software License,20490.81
+2369,Law Plus,Software License,37424.27
+2370,He Plus,Software License,5717.44
+2371,Recent Lite,Hardware,12415.85
+2372,They Core,Professional Services,40376.91
+2373,A Enterprise,Cloud Subscription,38161.5
+2374,Apply Pro,Professional Services,19338.49
+2375,Enter Core,Hardware,47722.13
+2376,Certainly Lite,Software License,45536.62
+2377,Hard Core,Hardware,48116.92
+2378,Unit Pro,Support Plan,21424.34
+2379,Federal Pro,Support Plan,9913.81
+2380,Stock Plus,Professional Services,31351.6
+2381,Town Core,Professional Services,34254.42
+2382,Morning Suite,Cloud Subscription,6315.82
+2383,Reduce Suite,Cloud Subscription,39334.83
+2384,Specific Core,Support Plan,952.11
+2385,Option Pro,Software License,24162.28
+2386,Clear Enterprise,Hardware,16584.26
+2387,Before Pro,Cloud Subscription,37028.14
+2388,Sell Pro,Add-on Module,15672.4
+2389,Experience Enterprise,Cloud Subscription,41349.02
+2390,Character Lite,Software License,29767.93
+2391,Significant Pro,Software License,39704.97
+2392,Debate Enterprise,Professional Services,49467.56
+2393,Lay Core,Hardware,33973.96
+2394,Pay Enterprise,Software License,49248.27
+2395,Why Suite,Cloud Subscription,1490.37
+2396,Be Enterprise,Cloud Subscription,16940.09
+2397,Fill Pro,Support Plan,5437.27
+2398,Discuss Lite,Software License,13152.13
+2399,Almost Core,Add-on Module,41952.45
+2400,Material Enterprise,Professional Services,1664.55
+2401,Worker Pro,Hardware,26033.14
+2402,Hear Lite,Add-on Module,28378.08
+2403,Energy Enterprise,Professional Services,28079.5
+2404,Task Core,Cloud Subscription,23791.09
+2405,Resource Core,Add-on Module,39540.62
+2406,Public Suite,Professional Services,6720.48
+2407,Imagine Core,Cloud Subscription,15563.32
+2408,Knowledge Lite,Cloud Subscription,30805.52
+2409,Inside Pro,Cloud Subscription,34563.02
+2410,Well Core,Cloud Subscription,20237.21
+2411,Billion Core,Cloud Subscription,43774.79
+2412,Walk Pro,Support Plan,20803.9
+2413,Every Pro,Add-on Module,20168.67
+2414,Wife Lite,Professional Services,1858.55
+2415,Five Core,Support Plan,27579.51
+2416,Picture Lite,Support Plan,35448.61
+2417,Foreign Core,Software License,5766.19
+2418,Consumer Enterprise,Software License,15306.37
+2419,Organization Core,Software License,39073.78
+2420,Least Suite,Hardware,18327.68
+2421,Respond Suite,Software License,12118.04
+2422,Type Suite,Professional Services,33626.42
+2423,Future Suite,Support Plan,9878.1
+2424,Summer Lite,Professional Services,44787.86
+2425,Particular Core,Add-on Module,5324.64
+2426,Chair Enterprise,Software License,35342.16
+2427,Result Lite,Hardware,25002.46
+2428,Special Pro,Add-on Module,43502.98
+2429,Decision Core,Hardware,6353.44
+2430,Enough Plus,Add-on Module,33910.85
+2431,Central Core,Support Plan,28624.13
+2432,Keep Lite,Professional Services,24030.5
+2433,Once Suite,Cloud Subscription,24595.79
+2434,Decision Plus,Professional Services,36112.75
+2435,Fish Lite,Software License,46890.2
+2436,Focus Core,Cloud Subscription,4608.02
+2437,Bed Enterprise,Hardware,1024.16
+2438,Finish Lite,Support Plan,40294.95
+2439,Our Enterprise,Support Plan,5453.06
+2440,Within Plus,Hardware,49335.5
+2441,Production Pro,Software License,30986.45
+2442,Main Lite,Hardware,32560.78
+2443,Offer Plus,Add-on Module,9984.64
+2444,Cover Enterprise,Software License,12053.6
+2445,How Plus,Cloud Subscription,32984.55
+2446,Stay Suite,Hardware,45490.86
+2447,Type Lite,Software License,49120.41
+2448,These Suite,Cloud Subscription,9941.65
+2449,Leave Pro,Hardware,6749.28
+2450,Big Plus,Support Plan,2867.25
+2451,Certainly Plus,Hardware,43421.44
+2452,New Plus,Professional Services,14771.01
+2453,Letter Plus,Hardware,140.51
+2454,Rule Pro,Professional Services,11229.71
+2455,Form Enterprise,Cloud Subscription,17055.03
+2456,Most Core,Hardware,49549.76
+2457,Worry Pro,Cloud Subscription,26200.9
+2458,Reveal Enterprise,Cloud Subscription,10275.46
+2459,Seem Lite,Software License,16774.18
+2460,Help Enterprise,Cloud Subscription,16548.87
+2461,Management Lite,Cloud Subscription,1035.3
+2462,Health Enterprise,Hardware,6802.39
+2463,Late Plus,Hardware,34775.06
+2464,Man Pro,Support Plan,6056.54
+2465,Kitchen Enterprise,Software License,11575.18
+2466,Item Core,Cloud Subscription,17569.33
+2467,Main Core,Software License,37898.86
+2468,Ahead Suite,Professional Services,29140.93
+2469,While Enterprise,Cloud Subscription,34465.55
+2470,Operation Pro,Software License,28372.27
+2471,Agreement Plus,Support Plan,34195.44
+2472,Speak Suite,Support Plan,191.97
+2473,Know Enterprise,Cloud Subscription,46548.36
+2474,Behavior Plus,Professional Services,5590.47
+2475,Someone Pro,Support Plan,20342.14
+2476,Challenge Pro,Support Plan,38563.37
+2477,Possible Suite,Professional Services,21789.77
+2478,What Suite,Software License,47344.79
+2479,Five Enterprise,Support Plan,23406.07
+2480,Stop Plus,Hardware,43753.22
+2481,Eight Core,Add-on Module,40550.86
+2482,Partner Plus,Add-on Module,49050.27
+2483,Music Pro,Support Plan,46331.06
+2484,Hour Pro,Software License,44911.29
+2485,Care Enterprise,Software License,36593.64
+2486,Pressure Core,Cloud Subscription,18381.56
+2487,Of Lite,Hardware,5350.96
+2488,We Enterprise,Software License,34447.82
+2489,Others Pro,Professional Services,48933.77
+2490,Understand Pro,Hardware,36343.89
+2491,Finally Plus,Add-on Module,46440.03
+2492,Argue Core,Hardware,40225.02
+2493,Someone Plus,Professional Services,8197.58
+2494,Through Plus,Support Plan,12497.73
+2495,Increase Enterprise,Professional Services,17126.19
+2496,Car Plus,Professional Services,8454.61
+2497,Interesting Suite,Support Plan,29103.48
+2498,Religious Suite,Support Plan,48773.75
+2499,According Plus,Support Plan,38084.87
+2500,Maintain Core,Support Plan,21198.17

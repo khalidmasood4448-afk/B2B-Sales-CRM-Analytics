@@ -1,0 +1,17 @@
+SCD Type 2 verification — actually executed against the SQL script
+
+=== 5a. Full history for rep 487 (sales_rep_sk, rep_id, region_id, start, end, is_current) ===
+(1, 487, 12, '2023-01-15', '2026-02-28', 0)     <- old version, expired
+(2, 487, 7,  '2026-03-01', None,         1)     <- new version, current
+
+=== 5b. Deals correctly attributed to the region active at the time (opportunity_id, close_date, deal_value, region_id, start, end) ===
+(9001, '2024-06-10', 15000, 12, '2023-01-15', '2026-02-28')   <- old deal, Region 12 preserved
+(9002, '2025-11-02', 22000, 12, '2023-01-15', '2026-02-28')   <- old deal, Region 12 preserved
+(9003, '2026-04-15', 30500, 7,  '2026-03-01', None)           <- new deal, Region 7 correctly applied
+
+=== 5c. Current-only view (rep_id, rep_name, region_id) ===
+(487, 'Jamie Baird', 7)
+
+RESULT: Historical deals (9001, 9002) remain on Region 12. The new deal (9003)
+is correctly attributed to Region 7. No date-comparison logic was needed in
+the query — the fact table's sales_rep_sk foreign key does the work.

@@ -1,0 +1,82 @@
+erDiagram
+    FactOpportunity {
+        int opportunity_sk PK
+        int opportunity_id "degenerate dim"
+        int customer_sk FK
+        int sales_rep_sk FK
+        int product_sk FK
+        int created_date_sk FK
+        int close_date_sk FK
+        string stage
+        decimal amount
+        int pipeline_age_days
+        boolean is_won
+        boolean is_closed
+        int activity_count
+    }
+
+    FactSales {
+        int sales_sk PK
+        int deal_id "degenerate dim"
+        int opportunity_id "degenerate dim, links to FactOpportunity by value"
+        int customer_sk FK
+        int sales_rep_sk FK
+        int product_sk FK
+        int close_date_sk FK
+        decimal deal_value
+    }
+
+    DimCustomer {
+        int customer_sk PK
+        int customer_id
+        string company_name
+        string industry
+        int region_sk FK
+    }
+
+    DimSalesRep {
+        int sales_rep_sk PK
+        int rep_id
+        string rep_name
+        int region_sk FK
+        date effective_start_date
+        date effective_end_date
+        boolean is_current
+    }
+
+    DimProduct {
+        int product_sk PK
+        int product_id
+        string product_name
+        string category
+        decimal list_price
+    }
+
+    DimRegion {
+        int region_sk PK
+        int region_id
+        string region_name
+        string country
+    }
+
+    DimDate {
+        int date_sk PK
+        date full_date
+        int day
+        int month
+        int quarter
+        int year
+        string day_name
+        boolean is_weekend
+    }
+
+    FactOpportunity }o--|| DimCustomer : "customer"
+    FactOpportunity }o--|| DimSalesRep : "owned by"
+    FactOpportunity }o--|| DimProduct : "for"
+    FactOpportunity }o--|| DimDate : "created / closed"
+    FactSales }o--|| DimCustomer : "customer"
+    FactSales }o--|| DimSalesRep : "closed by"
+    FactSales }o--|| DimProduct : "for"
+    FactSales }o--|| DimDate : "closed on"
+    DimCustomer }o--|| DimRegion : "located in"
+    DimSalesRep }o--|| DimRegion : "assigned to"
